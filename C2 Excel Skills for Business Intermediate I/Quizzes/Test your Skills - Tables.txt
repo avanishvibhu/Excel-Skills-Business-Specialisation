@@ -1,0 +1,64 @@
+Test your Skills: Tables
+
+1. Question 1
+The attached workbook is needed to answer all the questions associated with this quiz. Please download the file and open it in Excel before you start answering the questions below.
+C2 W5 Assessment Workbook.xlsx
+Is the Supplier Phone number data (O3:P10) in a Table?
+1.No
+2. Question 2
+Convert the Discount Code data (O13:P15) to a table.
+Add a new record directly below the table as follows:
+Code: C
+%: 15%
+What is the corrected Average Discount % shown in P19?
+Don't enter the percentage symbol - please enter only the number as #.##
+2.6.76
+3. Question 3
+Convert the Homewares Inventory data to a table. Apply the table style White, Table Style Light 18. Turn off banded rows and turn on banded columns.
+Which of the following most closely resembles your table?
+3.White Table Style 18, Banded Columns
+4. Question 4
+Turn on the Total Row. Change the calculation for the Retail Price column to calculate the average retail price.
+What is the average retail price?
+Do not enter the currency symbol, please enter just the numeric value #.##
+4.101.05
+5. Question 5
+The In Stock column displays the number of items in stock for each product. Using the Total Row to add a calculation, how many items are currently in stock for all products?
+5.1428
+6. Question 6
+You have been informed that there may be duplicates in the data. Use the Remove Duplicates tool to remove any duplicate entries.
+What is the corrected average retail price?
+Do not enter the $ symbol, please enter just the numeric value #.##
+6.104.13
+7. Question 7
+You need to find out which products need re-ordering most urgently. Sort the data by the column In Stock from Smallest to Largest.
+Enter the full product code for the product with the smallest number in stock.
+7.HARD-015
+8. Question 8
+You are doing an audit of products supplied by the company Kestrel. Filter the data by the supplier Kestrel.
+What is the updated value for the total number of items in stock now?
+Please enter just the number ###.
+8.
+9. Question 9
+Clear the filter on Supplier and add a new filter to get the top 5% of stock items by retail price.
+What is the average retail price for these items?
+Don't enter the currency symbol, please enter just the numeric value #.##
+9.627.50
+10. Question 10
+Clear all filters and turn off the total row. In the first empty row add the following record:
+Product Code	HARD-026
+Item DescriptionChrome-Plated Face Frame Hinge
+Supplier	PHISION
+Department	Hardware
+Origin		China
+Location	Showroom
+Rack		02
+In Stock	100
+Target Level	100
+Reorder Level	50
+Discount %	(Copy down from the row above)
+Unit Cost	$6.32
+Retail Price	$7.49
+Turn the total row back on. What is the updated Average Retail Price?
+Do not enter the currency symbol, please enter just the numeric value #.##
+10.102.27

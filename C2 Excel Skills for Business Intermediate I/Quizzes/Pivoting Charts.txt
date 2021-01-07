@@ -1,0 +1,14 @@
+Pivoting Charts
+
+1. Question 1
+Uma has just created a chart, however she doesn’t like how it looks like she feels that the legend and x-axis have been swapped. How can she rectify this problem?
+(One or more answers are possible — partial credit will be awarded)
+1.Whilst being clicked on the chart, go to the Design tab in the ribbon and navigate to Switch Row/Column Data
+Whilst clicked on the chart go to the field list and drag the fields between the Legends fields and axis fields.
+Right-click on the chart and navigate to Select Data, click on it and an option to Switch Row/Column will be found.
+2. Question 2
+Uma can remember that when you create a Pivot Chart the Field filters appear on the Pivot Chart. Sean has just walked in talking about how useful Report Filters are. Uma now cannot recall if Report Filters also appear on the Pivot Chart. Do they? (Hop over to Excel and create a chart for a table that contains a report filter if you are confused as well).
+2.Yes
+3. Question 3
+Uma and Sean have not had a relaxing Friday, they cannot agree on whether it is possible to create a Pivot Chart by being clicked on the Pivot Table and navigating to the Insert tab and selecting a Chart under the Chart Tools. Is this possible?
+3.Yes, this works fine.

@@ -1,0 +1,18 @@
+Formatting
+
+1. Question 1
+What does this tool do?
+1.Increase/decrease the font size of the selected cell by a small amount
+2. Question 2
+Before you can format specific cells you must first select them
+2.True
+3. Question 3
+When you choose which font you are going to use for a business report, which of the following should you consider? (One or more answers are possible - partial credit will be awarded)
+3.Readability
+Your company's preferred font.
+4. Question 4
+What do you need to do first in order to change the font of your entire spreadsheet?
+4.Select all the data in your worksheet.
+5. Question 5
+You haven't been given any directions by your boss regarding formatting. Which of the following options are likely appropriate to use for a business report? (One or more answers are possible - partial credit will be awarded)
+5.Arial, Times New Roman

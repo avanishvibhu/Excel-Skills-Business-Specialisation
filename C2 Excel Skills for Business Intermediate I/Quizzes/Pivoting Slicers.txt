@@ -1,0 +1,12 @@
+Pivoting Slicers
+
+1. Question 1
+To connect a Slicer to a Pivot Table you have to be clicked on the pivot table.
+1.No
+2. Question 2
+Sean has asked you to briefly explain to him what a Slicer is. What is the best response?
+2.A Slicer is a filter that has been made user-friendly and now anyone can use it with ease by just clicking on what they want the spreadsheet to filter by and the pivot table and charts (dashboard) display accordingly.
+3. Question 3
+What options do you find under the Options tab which appears when clicked on a Slicer?
+3.Slicer Caption
+Report Connections

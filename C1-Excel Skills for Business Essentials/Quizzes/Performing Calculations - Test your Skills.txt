@@ -1,0 +1,43 @@
+Performing Calculations: Test your skills
+
+1. Question 1
+Open the attached workbook. In F7 calculate Base Pay by multiplying the Hours by the Rate. Copy the formula down to F12. What is Sophie Yang's Base Pay for the week?
+Please enter the number only, no dollar sign.
+1.1083.00
+2. Question 2
+In G7 calculate the Commission amount by multiplying the Base Pay by the Commission Rate. Copy the formula down to G12. What is Sandy Smith's Commission for the week?
+Please enter the number only, no dollar sign.
+2.47.36
+3. Question 3
+In H7 calculate Gross Pay by adding Base Pay and Commission. Copy the formula down to H12. What is Diepak Kumar's Gross Pay for the week?
+3.1037.40
+4. Question 4
+In I7 calculate Tax by multiplying Gross Pay by Tax Rate (in this instance all staff are on the same tax rate). Copy the formula down to I12. What is Diepak Kumar's Tax for the week?
+Please enter the number only, no dollar sign.
+4.290.47
+5. Question 5
+In J7 calculate Net Pay by subtracting Tax from Gross Pay. Copy the formula down to J12. What is Steve Welgemoed's Net Pay for the week?
+Please enter the number only, no dollar sign.
+5.294.73
+6. Question 6
+In cells F14:J14 calculate totals for each of the columns. What was the total Gross Pay?
+Please enter the number only, no dollar sign.
+6.5358.39
+7. Question 7
+In cells F16:J16 calculate an average for each of the columns. What was the Average Net Pay?
+Please enter the number only, no dollar sign.
+7.643.01
+8. Question 8
+In cells F17:J17 calculate the maximum for each of the columns. What was the Maximum Gross Pay?
+Please enter the number only, no dollar sign.
+8.1231.36
+9. Question 9
+In cells F18:J18 calculate the minimum for each of the columns. What was the Minimum Tax?
+Please enter the number only, no dollar sign.
+9.114.62
+10. Question 10
+Click into the Branch Summary worksheet. First, we want to calculate the Total Commission for Edenvale (see the Branch column on both sheets). In B6 type in =SUM( then click into Pay Details and select G7:G9, then press Enter. Repeat the process, selecting the appropriate cells, to get the Total Commission for Sandown.
+Use the fill handle to get Total Gross Pay for Edenvale and Sandown. What was the Total Gross Pay for Sandown?
+Please enter the number only, no dollar sign.
+10.3337.88
+

@@ -1,0 +1,19 @@
+Sparklines
+
+1. Question 1
+Which feature in Excel will insert a small chart in a cell?
+1.Sparklines
+2. Question 2
+What type of data can be used to create a single Sparkline?
+(Multiple answers possible. Partial credit will be awarded).
+2.Column Data
+Row Data
+3. Question 3
+Apart from the mini chart itself, what other features can be highlighted on a sparkline?
+(Multiple answers possible. Partial credit will be awarded).
+3.High Point
+Low Point
+Last Point
+Markers
+Negative Points
+First Point

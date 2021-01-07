@@ -1,0 +1,19 @@
+Creating Drop-down Lists
+
+1. Question 1
+Based on the Validation Criteria in the screenshot, what can you expect to see in your Drop-down list?
+1.accepted
+Under review
+Rejected
+on Hold
+2. Question 2
+The values that appear in a drop-down list will always appear in alphabetical order.
+2.False
+3. Question 3
+What is the advantage of converting your lookup list into a named range and table?
+3.The advantage is that there is no need to update the validation criteria as the look-up list changes.
+4. Question 4
+To create a Drop-down List, each distinct option is entered in the Source box in the Data Validation dialog. The items should be separated by a:
+(One or more correct answers possible. Partial credit will be awarded)
+4.Comma and Space
+Comma

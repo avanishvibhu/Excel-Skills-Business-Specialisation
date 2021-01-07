@@ -1,0 +1,11 @@
+Creating and Formatting Tables
+
+1. Question 1
+You need to select all your data before converting it to a table.
+1.False
+2. Question 2
+The name of a table can be changed in the following way:
+2.Click the Tables Tools Design tab that appears when clicked anywhere in the table and navigate to Table Name in the ribbon.
+3. Question 3
+In tables, named ranges will automatically extend when you add an extra row/column.
+3. True

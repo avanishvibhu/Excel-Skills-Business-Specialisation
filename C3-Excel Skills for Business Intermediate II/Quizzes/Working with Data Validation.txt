@@ -1,0 +1,13 @@
+Working with Data Validation
+
+1. Question 1
+How do you clear validation from a cell (or cells)?
+1.Select the cell/s, click on Clear all in the Data Validation dialog.
+2. Question 2
+After applying Data Validation to a cell (or cells):
+(One or more answers are possible. Partial credit will be awarded)
+2.Excel flags pre-existing invalid data with a small green triangle.
+Excel can highlight pre-existing invalid data with red circles.
+3. Question 3
+How can you identify cells which contain the same data validation as a currently selected cell?
+3.Go to the Home tab, click on Find and Select, then choose Go to Special - Data Validation, Same.

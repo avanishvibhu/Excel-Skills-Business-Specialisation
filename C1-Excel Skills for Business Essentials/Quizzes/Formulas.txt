@@ -1,0 +1,11 @@
+Formulas
+
+1. Question 1
+A calculation has been used in cell A3. Which of the following was entered in A3?
+1.=A1/A2
+2. Question 2
+For the data shown, which of the following formulas will NOT give the result 2?
+2.=A1-A2/A3
+3. Question 3
+What is the result of this simple calculation entered into the formula bar in Excel? =7+3*4
+3.19

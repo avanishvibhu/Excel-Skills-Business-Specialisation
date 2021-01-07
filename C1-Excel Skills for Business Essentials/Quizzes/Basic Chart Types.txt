@@ -1,0 +1,16 @@
+Basic Chart Types
+
+1. Question 1
+Where do you find the Chart tools?
+1.Navigate to the INSERT tab and locate the Charts group.
+2. Question 2
+When creating a chart, it is best to select your data and headers first.
+2.True
+3. Question 3
+Sean wants to create a pie chart based on the selection below. But when he clicks on Create Pie Chart, something goes wrong. What is happening here?
+3.Sean selected the wrong type of chart to display more than one series.
+4. Question 4
+Sean created the chart below but something's gone wrong. Can you help him figure out what's going on here?
+4.Sean did everything correctly - except for one thing. While he correctly included the row and column labels to help Excel interpret the data, he included empty cells.
+
+

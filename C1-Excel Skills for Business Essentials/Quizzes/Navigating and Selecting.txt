@@ -1,0 +1,17 @@
+Navigating and Selecting
+
+Question 1
+In Excel, the following mouse pointer will allow us to
+ANS:Move data
+Question 2
+In the following graphic, which is the Active Cell?
+ANS:B1
+Question 3
+To select the whole of column B, we ...
+ANS:Click on B
+Question 4
+What is the shortcut key to select all the data in a data block?
+ANS:Ctrl+A
+Question 4
+What is the shortcut key to select all the data in a data block?
+ANS:Select the first block, hold down the Ctrl key (Cmd on Mac) and select the second block.

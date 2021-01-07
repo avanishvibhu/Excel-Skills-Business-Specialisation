@@ -1,0 +1,95 @@
+Week 4 Final Assignment
+
+1. Question 1
+We have been given a vehicle spare parts ordering spreadsheet that has many errors. This is in the file attached here.
+C3 W4 Final Assessment.xlsx
+By first activating the top left cell and selecting Error Checking, and Next, count the number of cells with suspected errors in them. Remember to count the first error found. Report the number here:
+
+1.11
+2. Question 2
+Does the number reported above represent the number of cells we need to repair? Explain.
+2.No, sometimes errors produce other errors in a chain for a particular calculation.
+
+3. Question 3
+Activate the cell M2, one of the cells containing an error, then select Trace Dependents. What happens and why?
+3.Nothing except for a ping. There are no cells that depend on this cell as an input.
+
+4. Question 4
+There are 3 (other) cells that should agree with the value in cell B2. Which cells are they?
+4.G2,C2,D2
+
+5. Question 5
+What is the name given to the type of checking being done between the cells in question 4?
+5.Cross checking (totals and subtotals)
+
+6. Question 6
+Is there another group of cells that should agree in their value? If so, list their addresses:
+6.Yes: H2, M2, Q2 and U2 only.
+
+7. Question 7
+Activate H2 and use the Trace Error to find the root cause of the error report in that cell. Was there anything to edit in cell H2 itself?
+7.H2 did not need to be changed.
+
+8. Question 8
+Activate M2, then, by repeated use of the Trace Precedents, determine the number of generations behind the result. Report the answer here.
+8.3
+
+9. Question 9
+Go ahead and fix all errors. And provide the values of the cells requested.
+The cells with an obvious error message are not the only cells with errors. Look back to your answers to questions 4-6. Do all of the cells that should have the same value actually do so?
+What is in cell B2 after the errors have been fixed?
+9.2823
+
+10. Question 10
+What is in cell H2 after the errors have been fixed? Use the format ###.##. Do not include a currency symbol or thousands separator.
+10. 8290886.79 
+
+11. Question 11
+What is in cell M16 after the errors have been fixed?
+11.
+
+12. Question 12
+We wish to protect this spreadsheet from further errors after we pass it on, as our duty of care. The data resides in columns B to G.
+What facility would allow us to protect the formulas in column H as well as the summary tables to the right of this?
+12.Protect Sheet
+
+13. Question 13
+The errors found were all due to user input. Data Validation could have been used to minimise their occurrence.
+State the type of Data Validation that might have been used for each of the columns requested:
+Column B:
+13.Whole Number
+
+14. Question 14
+The errors found were all due to user input. Data Validation could have been used to minimise their occurrence.
+State the type of Data Validation that might have been used for each of the columns requested:
+Column C:
+14.Dropdown list
+
+15. Question 15
+The errors found were all due to user input. Data Validation could have been used to minimise their occurrence.
+State the type of Data Validation that might have been used for each of the columns requested:
+Column D:
+15.Dropdown list
+
+16. Question 16
+The errors found were all due to user input. Data Validation could have been used to minimise their occurrence.
+State the type of Data Validation that might have been used for each of the columns requested:
+Column E:
+16.Dropdown list
+
+17. Question 17
+The errors found were all due to user input. Data Validation could have been used to minimise their occurrence.
+State the type of Data Validation that might have been used for each of the columns requested:
+Column F:
+17.Whole Number
+
+18. Question 18
+The errors found were all due to user input. Data Validation could have been used to minimise their occurrence.
+State the type of Data Validation that might have been used for each of the columns requested:
+Column G:
+18.Positive Value
+
+
+
+
+

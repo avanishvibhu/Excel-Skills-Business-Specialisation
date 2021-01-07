@@ -1,0 +1,17 @@
+Goal Seek
+
+1. Question 1
+Where is the Goal Seek tool located?
+1.Go to the Data tab and in the Forecast group locate What-If Analysis and it can be found there.
+2. Question 2
+Which of the options below correctly explains the Goal Seek tool?
+2.The Goal Seek tool through multiple iterations finds what input value is necessary to obtain a certain set value for the calculation.
+3. Question 3
+Refer to the worksheet above (Revenue, Cost and Profit are in $millions). When trying to find the Quantity that will result in a Profit of $12 million, using Goal Seek, the Set Cell is:
+3.B4
+4. Question 4
+Refer to the worksheet above (Revenue, Cost and Profit are in $millions). When trying to find the Quantity that will result in a Profit of $12 million, using Goal Seek, the To value is:
+4.12
+5. Question 5
+Refer to the worksheet above (Revenue, Cost and Profit are in $millions). When trying to find the Quantity that will result in a Profit of $12 million, using Goal Seek, By changing cell is:
+5.B1

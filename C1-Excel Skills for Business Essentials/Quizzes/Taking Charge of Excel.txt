@@ -1,0 +1,27 @@
+Taking Charge of Excel
+
+Question 1
+Excel is an example of what type of software?
+ANS.Spreadsheet Software
+Question 2
+Which of the following is NOT part of the Ribbon?
+ANS:Tools
+Question 3
+My Ribbon has disappeared - how can I get it back??
+(One or more answers are possible. Partial credit will be awarded)
+ANS:Right-click on one of the tabs and untick Collapse the Ribbon.
+Double-click on any of the ribbon tabs.
+Switch to another worksheet.
+Question 4
+Clicking on the File tab takes you to the Backstage View. From here you can
+(One or more answers are possible. Partial credit will be awarded)
+ANS:Close a file.
+Set up Excel options.
+Open a File.
+Create a blank workbook.
+Question 5
+The tools on the far right of the status bar (at the bottom of the screen) allow you to
+(One or more answers are possible. Partial credit will be awarded).
+ANS:Use the zoom slider.
+Set a specific zoom percentage.
+Toggle between different View Options.

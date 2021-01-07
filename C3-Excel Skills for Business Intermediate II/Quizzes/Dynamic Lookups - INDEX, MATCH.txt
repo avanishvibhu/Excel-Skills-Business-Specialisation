@@ -1,0 +1,13 @@
+Dynamic Lookups: INDEX, MATCH
+
+1. Question 1
+Which of the options below are possible advantages of using an INDEX MATCH as opposed to a VLOOKUP?
+(One or more correct answers possible, partial credit is awarded)
+1.The INDEX MATCH can do horizontal and vertical lookups at the same time.
+The INDEX MATCH allows us to look up more than one value simultaneously.
+2. Question 2
+Which of the following arguments are required by the INDEX function?
+2.row_num, array
+3. Question 3
+What part of the INDEX function does MATCH replace and why?
+3.MATCH is used to define the second and/or third argument, i.e., the row or column parameter, of the INDEX function. By using MATCH instead of defining this manually, the function becomes a lot more versatile and automated.

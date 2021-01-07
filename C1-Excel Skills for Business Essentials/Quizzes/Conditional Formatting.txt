@@ -1,0 +1,16 @@
+Conditional Formatting
+
+1. Question 1
+What can we use Conditional Formatting for? (One or more answers are possible - partial credit will be awarded)
+1.To identify trends, variances and similarities in a range of data.
+To discover and visualise behaviour of data - especially in large sets.
+To automatically highlight cells when certain conditions are met.
+2. Question 2
+In order to apply conditional formatting to a worksheet, you can click into any cell.
+2.False
+3. Question 3
+In the workbook order-priority.xlsx, Sean wants to highlight any cells under "Order Priority" that are marked as "Critical" with Yellow Fill and Dark Yellow Text. Can you guide him on how to do this with the Conditional Formatting? Practice makes permanent, so why don't you download the worksheet below and step through the process and then select the correct answer below. (One or more answers are possible - partial credit will be awarded)
+order-priority.xlsx
+3.Select the range I4:I54, click on Conditional Formatting - Highlight Cell Rules - Equal to ..., type in "Critical", select Yellow Fill with Dark Yellow Text from the drop-down menu and hit OK.
+Select the range I4:I54, click on Conditional Formatting - Highlight Cell Rules - Text that Contains ..., type in "Critical", select Yellow Fill with Dark Yellow Text from the drop-down menu and hit OK.
+

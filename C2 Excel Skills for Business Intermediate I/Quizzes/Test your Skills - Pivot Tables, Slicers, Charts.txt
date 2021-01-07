@@ -1,0 +1,49 @@
+Test your Skills: Pivot Tables, Charts and Slicers
+
+1. Question 1
+The attached workbook is needed to answer all the questions associated with this quiz.
+C2 W6 Assessment Workbook.xlsx
+Before creating pivot tables it is always a good idea to put your data into a table. Convert the sales data to a table. Rename the table Sales. Turn on the Total Row and in the total row in the Price Paid column select Average to get the average price paid.
+What was the Average Price Paid?
+Don't enter currency symbol, please enter just the number ######.##
+1.589287.28
+2. Question 2
+Turn off the Total Row. Create a Pivot Table in a new sheet to show the Total Price Paid for each Town.
+What does the Pivot Table show as a total for Southall?
+Please enter just the number, no currency symbol or decimals.
+2.4505138
+3. Question 3
+Modify the Pivot Table to show Year Sold in the columns.
+What were the total sales for Northholt for 2016?
+Please enter just the number, no decimals.
+3.4240650
+4. Question 4
+Change the value field settings to show the calculated values as a percentage of the Grand Total.
+What percentage is shown for London in 2014?
+Don't enter the percentage symbol, just the plain number with two decimal places - ##.##
+4.33.92
+5. Question 5
+Still working in Sheet1, click into cell A15, and create a Pivot Table from your Sales data that shows total Price Paid for each Property Type. Rename the pivot PropertyType.
+What was the Total Price Paid for Semi properties?
+Please enter the plain number, with no currency symbol or decimals.
+5.72298550
+6. Question 6
+In the PropertyType pivot change the Summarise Values By setting to use a Count instead of a Sum.
+How many Flats were sold?
+6.431
+7. Question 7
+Click in the PropertyType pivot and in the PivotTable field settings tick the Estate Type checkbox.
+How many Leasehold Terraced properties were sold?
+7.10
+8. Question 8
+In the PropertyType pivot add Year Sold to the Filters section in the PivotTable field list. Change the filter to only show properties sold in 2014 and 2015.
+How many Freehold Terraced properties were sold in this time period?
+8.162
+9. Question 9
+Still working in the PropertyType pivot, clear all filters, remove Year Sold from the Filter area and remove Property Type from the Rows area. Add Deed Date to the column area and group by Year and Quarter. If necessary expand the Year group for 2015.
+How many Freehold properties sold in Quarter 3 of 2015?
+9.62
+10. Question 10
+Add a slicer to filter the PropertyType pivot by Postcode. Select all postcodes that begin with UB1 or UB2.
+How many Leasehold properties sold in Quarter 2 of 2015 for these postcodes?
+10.

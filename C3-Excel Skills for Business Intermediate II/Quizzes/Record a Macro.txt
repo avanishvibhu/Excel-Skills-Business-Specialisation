@@ -1,0 +1,20 @@
+Record a Macro
+
+1. Question 1
+How do you access the Developer tab?
+1.You can only access it by turning it on in the Customize Ribbon dialogue which you can find in the Backstage view.
+2. Question 2
+Changes made by a macro can be undone with CTRL-Z.
+2.False
+3. Question 3
+You have finished recording your macro, hit the Save button and see this dialogue. What happens if you click on Yes?
+3.The macro I have just finished recording will be lost.
+4. Question 4
+Which of the file types below will allow workbooks to be saved with macros? (Multiple correct answers possible; partial credit will be awarded)
+4.*.xltm
+*.xlsm
+*.xlsb
+5. Question 5
+What is the computer language called in which Excel records a macro?
+Enter answer here
+5.Visual Basic 

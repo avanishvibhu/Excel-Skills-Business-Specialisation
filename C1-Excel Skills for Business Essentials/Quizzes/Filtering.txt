@@ -1,0 +1,16 @@
+Filtering
+
+1. Question 1
+What does this icon mean?
+1.Filtering is applied.
+2. Question 2
+Which of the following are valid Filter arguments for a column populated with dates and no background fill? (One or more answers are possible - partial credit will be awarded)
+2.Tomorrow
+Does not equal
+3. Question 3
+Why is it important to clear all filters once you are finished with a specific task at hand? (One or more answers are possible - partial credit will be awarded)
+3.Filters can remain applied even when columns are hidden. It's easy to lose track especially in large data sets.
+If you forget that one or more of your columns are still filtered by the time you are interpreting your data for the next task, you can easily draw the wrong conclusions from your data.
+4. Question 4
+How can you tell that a filter has been applied somewhere in your sheet? If you are not sure go straight over to Excel and try it out.
+4.The icon in the column heading looks like this: Funnel Icon

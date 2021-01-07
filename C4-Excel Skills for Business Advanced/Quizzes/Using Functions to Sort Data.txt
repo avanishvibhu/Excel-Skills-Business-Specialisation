@@ -1,0 +1,15 @@
+Using Functions to Sort Data
+
+1. Question 1
+Live data that is imported into Excel refreshes by default.
+1.No, that's not true.
+2. Question 2
+Which of the following functions is used in the videos to rank a list of abbreviations?
+2.COUNTIFS
+3. Question 3
+Which of the following functions did we need in order to sort our data in the video?
+Multiple options are possible and partial credit will be given.
+3.ROW
+COUNTIFS
+INDEX
+MATCH

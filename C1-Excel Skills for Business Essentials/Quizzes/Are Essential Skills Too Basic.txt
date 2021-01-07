@@ -1,0 +1,29 @@
+Are essential skills too basic for me?
+
+Question 1
+Which key do you hold down when selecting cells that are in different areas of a worksheet?
+ANS:The Control (PC)/Command (Mac) key
+Question 2
+Which of the following components must be part of any formula? (One or more answers are possible - partial credit will be awarded)
+ANS:The = sign
+Question 3
+Sean used a function for the cells in the Qtr1 column. What did he enter in cell B7 in order to correctly calculate the average of Quarter 1 sales for Aanya, Charlie and Connor?
+ANS:=AVERAGE(B4:B6)
+Question 4
+To change the relative cell reference A1 to an absolute cell reference you use:
+ANS:$A$1
+Question 5
+You have some cells formatted the way that you want them, and you want to copy this format to some new cells that already contain data.
+ANS:You can use the Format Painter to copy only the formats from the old cells to the new cells.
+Question 6
+You want to insert 3 columns. Which of the following will get you there? (One or more answers are possible - partial credit will be awarded)
+ANS:You select a column then click the Insert button on the Home tab 3 times.
+You select 3 columns, right-click and go to Insert.
+Question 7
+You have a column of numbers and you want to only show those values that are more than 1,000. The fastest way is to:
+ANS:Apply a number filter using 'is greater than' 1,000
+Question 8
+You want to print your rather large data set which spans 3 pages across according to the Print Preview. You want to fit it on to 2 pages. Which of the options below are useful techniques to achieve this?
+ANS:Use the Page Layout view and set the automatic width to 2 pages.
+Use the Scale to Fit tools to reduce the size of your sheet
+Use narrower margins

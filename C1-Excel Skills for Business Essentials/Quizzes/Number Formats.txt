@@ -1,0 +1,11 @@
+Number Formats
+
+1. Question 1
+Sean applied number formatting to cells D4 to D10. What formatting did he apply?
+1.Percentage, 1 decimal place
+2. Question 2
+Sean made some more changes to the number format of his data. What format did he apply in Column B?
+2.He changed the number format to Long Date format.
+3. Question 3
+What is the main difference between the Accounting and the Currency number format in Excel? If you are not sure, head on over to Excel and have a play with some numbers before you attempt to answer this question.
+3.The main difference is that in the Accounting format, the currency symbol is left aligned, away from the number.

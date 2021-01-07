@@ -1,0 +1,15 @@
+Orientation, Margins and Scale
+
+1. Question 1
+Which of the following icons will take you to the Page Layout View?
+1.Should you press on this icon?
+2. Question 2
+Which view option is Sean using in the screenshot below?
+2.The Page Layout View
+3. Question 3
+What is the purpose of the Page Layout view?
+3.It shows us how the data will look on a printed page.
+4. Question 4
+How can you center the print selection horizontally on your page for printing?
+4.Go to the PAGE LAYOUT tab, click on the icon below and then center your data on the page through the option Custom Margins.
+

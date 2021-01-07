@@ -1,0 +1,19 @@
+Finding Text (FIND)
+
+1. Question 1
+If cell A1 contains the text "John Smith", why does the formula: =LEFT(A1,FIND(" ",A1)-1) return the word "John"?
+In fact, why does this formula always return the first word, if cell A1 contains two words separated by a space, " "?
+1.vHere FIND is being used as a helper function for the LEFT function. The helper function, FIND, finds the location of the space character, " ", and this function in turn speaks to the LEFT function, to extract all the text from the left until this space.
+2. Question 2
+When using the FIND function and the second argument for 'within text' is: "Microsoft Excel", which of the following are correct?
+2.=FIND("e", "Microsoft Excel") returns 14
+=FIND("o", "Microsoft Excel", 6) returns 7
+3. Question 3
+Suppose that cell A1 contains the text "Microsoft Excel", What would the following formula return: =FIND("Excel",A1)?
+3.11
+4. Question 4
+Postcodes in the UK look like SW1A 1AA. This consists of 2 parts: the Outward Code before the space (SW1A), and the Inward Code after the space (1AA). The Inward Code is always 3 characters but the Outward Code can be 2, 3 or 4 characters. Which of the following will extract the Outward and Inward Codes from this list?
+4.Outward Code: =MID(C2,1,FIND(" ",C2)-1)
+Inward Code: =MID(C2,FIND(" ",C2)+1,3)
+OuTward Code: =LEFT(C2,FIND(" ",C2)-1)
+Inward Code: =RIGHT(C2,3)

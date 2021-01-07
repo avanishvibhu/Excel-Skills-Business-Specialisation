@@ -1,0 +1,11 @@
+Fix Dates (DATE, MONTH, YEAR, DAY, TEXT)
+
+1. Question 1
+If cell A1 contains the formula =DATE(2027,3,6) what value will be returned in cell A1?
+1.A value corresponding to the date of 6 March 2027.
+2. Question 2
+If cell A1 contains the formula =DATE(2017,12,1) and cell B1 contains the formula =TEXT(A1,"ddd") what value will be returned in cell B1?
+2.Fri
+3. Question 3
+In the video, cell F2 contained the text string 2014.01.21 and the cell G2 formula =TEXT(F2,"mmmm") was seen to return 2014.01.21 and not the value January. Why did the formula at cell G2 behave this way?
+3.Because if the cell being referred to by the TEXT function is recognized by Excel as containing text, a number format of "mmmm" specified in the TEXT function has no effect.

@@ -1,0 +1,18 @@
+Tracing Precedents and Dependents
+
+1. Question 1
+To locate all the cells that are used in a formula in a cell, I can
+1.Click on Trace Precedents.
+2. Question 2
+It is possible to select a range of cells and find all their precedents in one step by clicking on Trace Precedents.
+2.False
+3. Question 3
+It is possible to show the Precedents of the Precedents of a cell by clicking the Trace Precedents button as often as needed.
+3.True
+4. Question 4
+Which of the options below will remove the arrows created by the Trace Precendents/Dependents tool?
+4.Click on Remove Arrows on the Formulas tab.
+5. Question 5
+Take a look at the screenshot below. What does the dashed black arrow indicate?
+5.This refers to a value in a different worksheet.
+

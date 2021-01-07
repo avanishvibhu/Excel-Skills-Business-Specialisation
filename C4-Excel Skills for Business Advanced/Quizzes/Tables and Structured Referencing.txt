@@ -1,0 +1,11 @@
+Tables and Structured Referencing
+
+1. Question 1
+What does @ symbol indicate when used in a formula with structured references?
+1.That the reference refers to the current row of the selected column.
+2. Question 2
+What kind of brackets are typically used within a formula to reference columns from a Table that contains Structured References?
+2.Square Brackets [ ].
+3. Question 3
+Which of these describes an advantage of setting up an array of data with the name Sales as a structured reference that DOES NOT also apply to the method of just using a basic named range to reference the array of data?
+3.If we add a new row of data immediately below the original array, the reference will automatically update to include the new row.

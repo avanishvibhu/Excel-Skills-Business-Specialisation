@@ -1,0 +1,17 @@
+Creating Named Ranges
+
+1. Question 1
+When using Create from Selection you should select both data and labels
+1.True
+2. Question 2
+When using Define Name you should select both data and labels
+2.False
+3. Question 3
+We want to name each of the cells in column B using the labels in column A. Which would be the fastest option?
+3.Create from Selection
+4. Question 4
+Which shortcut will select a range of cells from the first selected cell to the end of a column (i.e., the first empty cell in that column)?
+4.CTRL+SHIFT+Arrow down (CMD+SHIFT+Arrow down for a Mac)
+5. Question 5
+On which Tab of the ribbon are the Name tools located?
+5.Formulas

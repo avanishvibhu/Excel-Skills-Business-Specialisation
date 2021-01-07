@@ -1,0 +1,16 @@
+Print Preview
+
+1. Question 1
+You are working on one of your worksheets. Which of the following options will open up the Print Preview area?
+1.Click on the FILE tab in the ribbon to access the ‘Backstage’. Here you click on Print.
+
+2. Question 2
+Take a look at the screenshot. How many pages will get printed, if you press PRINT next?
+(Download the screenshot file here to take a closer look: )
+151-1.PNG
+2.105
+
+3. Question 3
+Sean's worksheet is very wide as it has 20 columns, and he would like to reduce the number of pages over which the printout will span. Which of the following options are likely to help Sean achieve this? (One or more answers are possible - partial credit will be awarded)
+3.He can change the page layout from Portrait to Landscape Orientation.
+He can narrow the print margins

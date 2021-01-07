@@ -1,0 +1,13 @@
+Print Tiles
+
+1. Question 1
+Sean wants to print the headings for all columns at the top of each page. How can he do that?
+1.He needs to go to the PAGE LAYOUT tab, select the icon below, then define the ranges for "Rows and Columns to repeat at the top" in the Print Setup dialogue box.
+2. Question 2
+What is the difference between Print Titles and Freeze Panes?
+2.Freeze Panes has no effect on the printed page.
+3. Question 3
+Take a careful look at the screenshot below. What can we expect from our printout? (One or more answers are possible - partial credit will be awarded)
+3.Every single page of the printout will repeat the columns 'Order Number' and 'Order Date' on the far left.
+Even though the data set hasn't been formatted with internal borders, all gridlines will be printed anyway.
+

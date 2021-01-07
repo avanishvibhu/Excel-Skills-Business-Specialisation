@@ -1,0 +1,13 @@
+Scenario Manager
+
+1. Question 1
+Can you predict what will happen when I press OK?
+1.Nothing goes wrong at this stage, you can press OK, and it will proceed as normal.
+2. Question 2
+Refer to the worksheet below. This is the Scenario Summary for data on a different worksheet. What scenarios have been added to the Scenario Manager?
+(One or more correct answer possible. Partial credit will be awarded.)
+2.Less Gardens.
+More Gardens.
+3. Question 3
+Refer to the worksheet below. This is the Scenario Summary for data on a different worksheet. For the Scenario Manager to be meaningful, which of the following must be true?
+3.Cell B40 must have a calculation.

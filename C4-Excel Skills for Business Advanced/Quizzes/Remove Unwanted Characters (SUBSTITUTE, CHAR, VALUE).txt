@@ -1,0 +1,11 @@
+Remove Unwanted Characters (SUBSTITUTE, CHAR, VALUE)
+
+1. Question 1
+Now that we know we can remove spaces from a text string in cell A1 with =SUBSTITUTE(A1," ",""), why would we still sometimes wish to use the TRIM function instead of the SUBSTITUTE function for cleaning up excess spaces in cell A1?
+1.=SUBSTITUTE(A1," ","") will remove spaces between words which we may want to keep, whereas the TRIM function will maintain single spaces between words.
+2. Question 2
+What will be the difference in results between =VALUE(A1) and =VALUE(VALUE(A1))?
+2.There will be no difference, these two formulas will always produce the same results.
+3. Question 3
+The video described the CODE and CHAR functions as being like the inverse of each other. If cell A1 contains a value (text or a number), what will be the result of =CHAR(CODE(A1)) typically be?
+3.The first character of the value in A1.

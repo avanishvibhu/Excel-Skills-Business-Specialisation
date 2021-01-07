@@ -1,0 +1,9 @@
+Consolidating by Category (Reference)
+
+
+1. Question 1
+What is the difference between Consolidating by Category (Reference) and Consolidating by Position?
+1.Consolidating by Position assumes that the data being consolidated in multiple workbooks has the same position in the different spreadsheets. However, Consolidating by Category (Reference) looks for the data to be consolidated via a reference to a parameter.
+2. Question 2
+Sean has data in different workbooks that have column headings in different positions. He wishes to consolidate the data. What is your advice?
+2.Excel can also be used to consolidate by reference when the column headings are different, Sean must just tick the top row option.

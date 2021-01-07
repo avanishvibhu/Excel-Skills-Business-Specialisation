@@ -1,0 +1,11 @@
+Financial Functions (FV, PV, PMT)
+
+1. Question 1
+Which function could I use to calculate the value of an account at the end of year 5 where I deposit $100 at the beginning of year 1, and the account earns 10% p.a. interest paid at the end of each year?
+1.The FV function.
+2. Question 2
+I have a bank account worth $100 at the start of year 1. At the end of every 3 months I want to deposit an amount $X, so that at the end of year 2 the account is worth $200. The account earns 10% interest per year, and the interest is paid every 3 months on the same day I make my deposits. Which formula can I use to calculate the periodic deposit amount X?
+2.=PMT(10%/4,2*4,100,-200)
+3. Question 3
+The formula =FV(5%,1,20,100) gives a value of -125. This means that if I start with receiving a payment of $100, receive 5% interest ($5) for 1 period, and receive a payment of $20 at the end of 1 period, I would then need to give back $125 after year 1 to have balanced total payments of zero. If I want my FV function to return +125 instead of -125, which of these adjusted formulas will give me that answer?
+3.=FV(5%,1,-20,-100)

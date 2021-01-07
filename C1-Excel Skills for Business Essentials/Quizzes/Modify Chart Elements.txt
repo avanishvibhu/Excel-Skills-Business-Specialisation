@@ -1,0 +1,12 @@
+Modify Chart Elements
+
+1. Question 1
+Once you copy and paste a chart into a different worksheet, the chart will no longer update automatically whenever its data changes.
+1.False
+2. Question 2
+The description of the horizontal axis of Sean's chart is missing, what can Sean do to fix this?
+2.With the chart active, he needs to navigate to the Add Chart Element tool on the Design tab.
+3. Question 3
+Sean has inserted a chart and formatted it very nicely according to his company's requirements. However, he discovers that he missed out one of the quarters. Is it still possible for him to change the data range the chart refers to? (One or more answers are possible - partial credit will be awarded)
+3.Yes, click on the Select Data button in the Data group under the Design tab to extend or reduce the data range.
+Yes, he can select the chart to activate the range selection in his data. He can then use the sizing handles to adjust the data range that is visualized in the chart.	

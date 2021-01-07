@@ -1,0 +1,14 @@
+Changing Text Case (UPPER, LOWER, PROPER)
+
+1. Question 1
+Cell A2 contains the text "Sean SANDERS" and Uma wants cell B2 to be "Sean Sanders". Which function will help her to achieve this?
+1.=PROPER(A2)
+2. Question 2
+Cell A1 contains "Macquarie " and cell B2 contains "University". How will Excel compute the following function:
+=CONCAT(A1," ",UPPER(B2))
+2.Convert "University" to upper-case, i.e. "UNIVERSITY" first, and then add this text to the end of "Macquarie " to result in: "Macquarie UNIVERSITY".
+3. Question 3
+Cell A3 contains "Chairs" and cell B3 contains "Samantha" and Uma would like cell C3 to contain "Samantha CHAIRS". Which of these will let her do this?
+(Multiple answers possible. Partial credit awarded).
+3.=CONCAT(B3," ",UPPER(A3))
+=B3&" "&UPPER(A3)

@@ -1,0 +1,54 @@
+Week 2 Final Assignment
+
+1. Question 1
+We would like to make a courtesy phone call to customers who may not be aware of our Express delivery option. Some customers who consider their orders to be urgent, do choose an express mode of delivery, while others do not. We would also like more senior members of staff to make these calls if these orders are generating a lot of revenue for our company. In this regard, there are two proposals to evaluate which orders are the most valuable for our company.
+To answer the questions in this quiz, download the attached worksheet and follow the instructions in each question.
+C3 W2 Final Assessment.xlsx
+We want to figure out which orders are considered urgent by our customers. This is to be judged by whether they specify that their orders are High priority or Critical priority, or if they choose Express Air for delivery.
+Populate column X so that it shows TRUE if they classify their order as High or Critical or if they have chosen Express Air as the mode of shipment. At the top of the column, count the number of cases for column X. Report this number here.
+1.497
+2. Question 2
+We want to figure out which customers who consider their orders to be urgent, actually choose an urgent method of delivery.
+Populate column Y so that it shows TRUE if they classify their order as High or Critical AND they have chosen Express Air as the mode of shipment. At the top of the column, count the number of cases for column Y. Report this number here.
+2.67
+3. Question 3
+We want to figure out which orders are considered Medium priority or higher.
+Populate column Z so that it shows TRUE if they classify their order as Medium or High or Critical. At the top of the column, count the number of cases for column Z. Report this number here.
+3.625
+4. Question 4
+Which customers are not choosing Express Air for their delivery?
+Populate column AA so that it shows TRUE if they do not choose Express Air as the mode of shipment. Hint: The function NOT(condition) gives the opposite result, which may be useful here. At the top of the column, count the number of cases for column AA. Report this number here.
+4.887
+5. Question 5
+Given your answers to questions 3 and 4, we want to call the customers who have priorities that are Medium or higher (Medium, High or Critical) but do not choose Express Air for delivery.
+Populate column AB so that it shows "Call" if BOTH column Z AND AA are TRUE or "Do Not Call" otherwise. At the top of the column, count the number of customers we are going to call. Report this number here.
+5.526
+6. Question 6
+We will be calling those customers whose entry in column AB is "Call" to talk to them about our express delivery option. We would like to monitor the number of calls and the duration of the calls for research.
+We do not want to call customers who have told us they are not interested, so this column will have the default value of "interest potential", but this can be switched to "no interest" if the customer indicates that they are not interested.
+Recalling previous lessons on data validation and dropdown lists, allow the entries in column AC to come from a dropdown list containing either "interest potential" or "no interest". Using an IF statement, populate the column with "interest potential" if the entry in column AB is "Call". The cell should be blank otherwise.
+Change the sixth entry that says "interest potential" to "no interest" (count down six ignoring blanks and replace the formula in that cell). How many calls were made to that customer for this order?
+6.
+7. Question 7
+We also want to calculate the average time spent on calls per order number, but we don't want an error message to appear if the call has not been made, but rather say "not called yet".
+Populate column AF so that it shows, if they were a client to be called, the average duration of the calls made to them. If an error results from this calculation because there have been no calls yet made, report "not called yet". If they were not a customer to call, leave the cell blank.
+At the top of the column, calculate the average of this column and report the result here, to 2 decimal places. Use #.## number format.
+7.5.65
+8. Question 8
+We would like to see which of our orders are generating the most revenue. If an order has an Order Total of more than $1,000, we will call this a "Star" order.
+Populate column AG: Star Order Proposal A with the value "Star" if the Order Total is more than $1,000. If it is not, the cell should simply remain blank. How many "Star" orders are there?
+8.189
+9. Question 9
+A consultant asks us to consider Star Order Proposal B which classifies orders according to "5 Star" (more than $1,000), "4 Star" (more than $500, up to $1000) and simply blank ($500 or below).
+Populate column AH with the values specified above. How many "4 Star" orders are there?
+9.106
+10. Question 10
+We would like the Deputy Sales Manager to make the courtesy call if the order is a "Star" order, and we have flagged the order as a call that needs to be made.
+If they are a "customer to call" and they are a "Star" order (according to Proposal A), then we want the Deputy Sales Manager to call them.
+Populate column AI: Deputy Manager to Call with an appropriate IF statement. How many calls will the Deputy Sales Manager have to make?
+10.96
+11. Question 11
+We would like the Sales Manager to make another courtesy call if the average call time is greater than 7 minutes, and the order is a "4 Star" or "5 Star" order, but only if we have flagged the order as a call that needs to be made.
+If the Average Call Time is more than 7 minutes, and the order is a "4 Star" or "5 Star" order (according to Proposal B), then we want the Sales Manager to call them. If the customer has not been called yet, the manager should not call them. Populate column AJ: Manager to Call with an appropriate IF statement. (You may need to incorporate a 'does not equal' for "not called yet".)
+How many calls does the Sales Manager have to make?
+11.

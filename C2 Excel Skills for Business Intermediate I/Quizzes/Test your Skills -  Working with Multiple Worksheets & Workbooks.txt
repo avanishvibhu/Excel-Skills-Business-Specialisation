@@ -1,0 +1,30 @@
+Test your Skills: Working with Multiple Worksheets & Workbooks
+
+1. Question 1
+Ensure you have downloaded all the C2 W1 Assessment workbooks. Open the workbook C2 W1 Assessment Sales Di. Move the worksheet called Q1 Summary to the front of the other worksheets. In the Q1 Summary worksheet click in cell C5, use 3D formulas to summarise the total quantity sold of item 3243 for January to March. How much commission did Di earn on this item?
+Do not enter the $ symbol - please enter the number as #.##
+1. 81.49
+
+2. Question 2
+Copy the formula in C5 down to C14. What was Di's total commission?
+Don't enter the $ symbol - please enter the number as ####.##
+Save the workbook, but don't close it, yet.
+2.3356.42
+
+3. Question 3
+Open C2 W1 Assessment Sales Lemin and C2 W1 Assessment Sales Summary. In Sales Lemin note all the commissions are coming up as 0. Go to the Data tab, you will observe the commission rate cell F4 is empty. The rate needs to be picked up from the Sales Summary workbook Rates tab. Ensure you can see both workbooks on your screen, click in F4 in Sales Lemin and use a linking formula to pull the commission rate through from Sales Summary. In Sales Lemin return to the Q1 Summary, what is the updated Total Commission?
+Don't enter the $ symbol - please enter the number as #.##
+Save the workbook, but don't close it, yet.
+3.7908.61
+
+4. Question 4
+Open C2 W1 Assessment Sales Aneesha. You will see a message informing you of broken links, this is because the commission rate is still linked to the old sales summary. The link will need to be updated to look at the rate in C2 W1 Assessment Sales Summary. After updating the link what is Aneesha's Q1 Commission?
+Don't enter the $ symbol - please enter the number as #.##
+Save the workbook, but don't close it, yet.
+4.14793.19
+
+5. Question 5
+In C2 W1 Assessment Sales Summary consolidate the Q1 summaries from the other three workbooks to get the total sales by item code for Q1. (Keep in mind that different sales people sell different products). What was the total sales figure for Item Code 3256?
+Enter your answer as a 5-digit number ##### - please don't use decimals, commas or symbols.
+Save the workbook, but don't close it, yet.
+5.25671

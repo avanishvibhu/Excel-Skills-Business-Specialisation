@@ -1,0 +1,55 @@
+Week 5 Final Assignment
+
+1. Question 1
+The following file describes the situation faced by a landscaping company, 'Landscaping Solutions'.
+C3 W5 Final Assessment.xlsx
+If there is great weather, the company takes the following hours to complete a driveway, backyard, front yard, back verandah, and front porch: 20, 30, 25, 25, and 20 hours respectively.
+Good weather increases all times by a factor of 1.1.
+Bad weather increases all times by a factor of 1.25.
+Stormy weather increases all times by a factor of 1.5.
+A natural disaster increases all times by a factor of 2.0
+Great weather, good weather, bad weather, stormy weather, and a natural disaster have the following probabilities of occurrence: 0.6, 0.25, 0.1, 0.04, and 0.01 respectively.
+All these probabilities (weightings) sum to 1.
+Use SUMPRODUCT to calculate the estimated hours of work to complete the landscaping.
+Please answer using the format ###.##.
+1.129.6
+
+2. Question 2
+The labourers hourly wage is $30 an hour. In B15, calculate the estimated wage cost, without bonuses, given the estimated hours of work. What is the estimated wage cost? Do not include a currency symbol.
+2.3888
+
+3. Question 3
+In A15:B22, create a Data Table that calculates the estimated wage cost for wage rates from $24 an hour to $36 an hour in increments of $2 an hour.
+What is the sum of all the estimated wages in your data table (B16:B22)? Do not include a currency symbol.
+3.27216
+
+4. Question 4
+In A26, calculate the estimated wage cost with a bonus rate of 10%. In A26:G34, create a Data Table that calculates the estimated wage cost for wage rates from $24 an hour to $38 an hour in increments of $2 an hour, including bonuses for the workers ranging from 5% to 10% in increments of 1%.
+What is the sum of all the estimated wages in your data table (B27:G34)? Do not include a currency symbol.
+4.207308.16
+
+5. Question 5
+It has been estimated the company's revenues per week can be estimated by the equation revenue = (240 - 30Q)*1000Q where Q is the number of gardens attended to per week. In B39, calculate the total revenue if the quantity is 1. What is the total revenue? Do not include a currency symbol.
+5.$210,000.00
+
+6. Question 6
+It has been estimated the company's costs per week can be estimated by the equation cost = (120 + 8Q)*1000 where Q is the number of gardens attended to per week. In B40, calculate the total cost if the quantity is 1. What is the total cost? Do not include a currency symbol.
+6.$128,000.00
+
+
+7. Question 7
+What is the total profit if the quantity is 1?
+7.$82,000.00
+
+8. Question 8
+Use Solver to calculate the quantity that maximises the profit per week. Use the format #.##.
+8.3.87
+
+9. Question 9
+Use Scenario Manager to save two alternate scenarios for Q = 3 (low quantity) and Q = 4 (high quantity), and display this Scenario Summary.
+Which screenshot most closely resembles what you see?
+9.Quantity=3, Profit=306,000, Quantity=4, Profit=328,000
+
+10. Question 10
+Use Goal Seek to calculate: What is the quantity required to generate a profit of $300,000 per week? Use the format #.##.
+10.2.89

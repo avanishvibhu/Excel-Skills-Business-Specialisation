@@ -1,0 +1,11 @@
+Combining Text (CONCAT, &)
+
+1. Question 1
+We want to join the values in B2 and A2 with a space between. Which of the following is correct?
+1.=CONCAT(B2," ",A2)
+2. Question 2
+Which of the following is an operator that allows us to concatenate (join) values?
+2.&
+3. Question 3
+Which of the following formulas did we use in A4 to get the result shown? (If you’re not sure, try it out in Excel.)
+3.=A2&" is "&B2&" years old"

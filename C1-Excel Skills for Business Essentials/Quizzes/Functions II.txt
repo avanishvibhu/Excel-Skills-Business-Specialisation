@@ -1,0 +1,13 @@
+Functions II
+
+1. Question 1
+The correct way to get an average of the values in cells A3 to A9 would be
+1.=AVERAGE(A3:A9)
+2. Question 2
+Using the screenshot below, which function would give us the answer 4?
+If you are not sure, why don't you quickly type of the four numbers below in Excel and try out the different functions? Remember, practice makes permanent.
+2.=MIN(A2:A5)
+3. Question 3
+Using the screenshot below, which function would give us the answer 9?
+If you are not sure, why don't you quickly type of the four numbers below in Excel and try out the different functions? Remember, practice makes permanent.
+3.=MAX(A2:A5)

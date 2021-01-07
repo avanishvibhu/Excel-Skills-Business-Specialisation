@@ -1,0 +1,20 @@
+View Options
+
+Question 1
+After entering data into a cell, which option(s) will move your cursor into the next cell underneath your active cell?
+(One or more answers are possible. Partial credit will be awarded.)
+ANS:Click the mouse pointer into the cell underneath.
+Press Enter.
+Question 2
+Which tool should we use to help keep headings visible when we scroll through a large workbook?
+ANS:Freeze Panes
+Question 3
+You are going to use the Freeze Pane function.
+Take a look at the screenshot below. Which cell do you need to click in order to freeze columns A and B as well as rows 1-4? If you are finding this tricky - why don't you download the workbook and have a play?
+ANS:C5
+Question 4
+How do you switch between different workbooks inside Excel?
+ANS:Click on the View tab and select this tool:
+Question 5
+Which tool was used here to produce the view below?
+ANS:Page Layout View

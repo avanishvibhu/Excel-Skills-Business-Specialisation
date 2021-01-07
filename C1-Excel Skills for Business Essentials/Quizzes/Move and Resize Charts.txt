@@ -1,0 +1,27 @@
+Move and Resize Charts
+
+1. Question 1
+What happens when you select a chart in Excel?
+1.Any data that the chart is based on is selected.
+The Sort & Filter tools on the Home tab are greyed out.
+Sizing-handles appear on all corners and sides of the chart.
+The Chart Tools appear above the Ribbon.
+2. Question 2
+Sean wants to move his chart to a new worksheet 'Charts' in his workbook. What are his options?
+(One or more answers are possible. Partial credit will be awarded)
+2.He can select the chart, then navigate to the CHARTS TOOLS and use the 'Move Chart' tool.
+He can select the chart and then use the Cut and Paste command.
+He can right-click the chart and then select 'Move Chart' from the context menu.
+3. Question 3
+Which of the following are key, modifiable elements of a chart?
+(One or more answers are possible. Partial credit will be awarded)
+3.Chart area
+Plot area
+Legend
+Chart title
+4. Question 4
+Sean has used the 'Move Chart' tool to move one his charts to one of the other worksheets. He then realises that he moved the chart to the wrong worksheet. Not to worry, a quick CTRL+Z to undo the move - except, nothing is happening. What is going on?
+4.When using the Move Charts tool, the Undo function does not work.
+5. Question 5
+In order to create a chart sheet, you need to:
+5.Go to the chart's properties and select 'display in full screen'.

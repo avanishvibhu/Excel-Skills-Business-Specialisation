@@ -1,0 +1,24 @@
+Data Tables
+
+1. Question 1
+Where is the Data Tables tool located?
+1.Go to the Data tab, locate the Forecast group and go to the What-If Analysis.
+2. Question 2
+When you create a Data Table, you need to specify your input row or column. What is that?
+2.The input for the Data Table is the variable that will change and for which you are building this Table.
+3. Question 3
+The function of the Data Table tool can be summarized as follows:
+Data Tables are a quick way of displaying how the outcomes of a calculation change by varying the inputs.
+3.True
+4. Question 4
+For the Data Table in A15:B22, a Data Table is useful because
+4.It calculates the estimated wage cost for a variety of values for the hourly wage.
+5. Question 5
+For the Data Table in A15:B22, when selecting the Data Table option, what is cell E16 referred to?
+5.The column input cell.
+6. Question 6
+To create the Data Table displayed above, after typing the formula in A26, you need to select:
+6.A26:G34
+7. Question 7
+For the Data Table in A26:G34, after clicking on Data Table, what do cells E16 and E18 represent?
+7.E16 is the Column input cell; E18 is the Row input cell.

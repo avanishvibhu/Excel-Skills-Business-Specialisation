@@ -1,0 +1,12 @@
+Remove Unwanted Spaces (TRIM, CLEAN)
+
+1. Question 1
+What of these statements best describes what the TRIM function does to a text string?
+1.Removes all spaces from text except for single spaces between words.
+2. Question 2
+When might we choose to use the CLEAN function on a text string?
+2.When we want to remove some non-printable characters from a text string.
+3. Question 3
+In the video, we saw in cell B2 the formula =TRIM(CLEAN(Data!B2)) being typed and then copied down the column. What would have happened if instead the formula =CLEAN(TRIM(Data!B2)) was typed and copied instead?
+3.There would have been no difference to the results. These two formulas would produce identical values in column B.
+

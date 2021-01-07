@@ -1,0 +1,47 @@
+Taking Charge of Excel: Test your skills, Part 1
+
+1. Question 1
+The large toolbar that stretches across the top of the Excel window is known as the Excel bar.
+1.False
+2. Question 2
+If the Ribbon is not visible, double-click (single-click for Mac) on one of the Ribbon Tabs to maximise or restore it.
+2.True
+3. Question 3
+Columns are referenced using letters of the alphabet.
+3.True
+4. Question 4
+Rows are referenced using letters of the alphabet.
+4.False
+5. Question 5
+The first cell (top-left) in a standard Excel spreadsheet is known as 1A.
+5.False
+6. Question 6
+Cell A2 is to the left of cell A3.
+6.False
+7. Question 7
+Cells D1, D2, D3, ..., D20 are all in the same column.
+7.True
+8. Question 8
+The Quick Access toolbar can be customised to show the tools you use most often.
+8.True
+9. Question 9
+Clicking on cell C3 and clicking Freeze Panes will freeze the top 3 rows and the first 3 columns.
+9.False
+10. Question 10
+You can navigate to the bottom of your spreadsheet using the arrow keys of the keyboard.
+10.True
+11. Question 11
+If you notice an error in a cell, you can correct it by typing over the error.
+11.True
+12. Question 12
+If Excel intelligently suggests what you intend to type, you can accept this suggestion by pressing Enter or Tab.
+12.True
+13. Question 13
+You cannot copy and paste text into Excel from another Office software such as Microsoft Word.
+13.False
+14. Question 14
+If you want to remove some information from your spreadsheet, you can highlight this information and press Delete.
+14.True
+15. Question 15
+It is impossible to reverse more than one task at a time in Excel using the Undo tool.
+15.False

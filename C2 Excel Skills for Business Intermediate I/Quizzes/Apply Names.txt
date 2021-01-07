@@ -1,0 +1,19 @@
+Apply Names
+
+1. Question 1
+Where can you find the Apply Names feature?
+1.In the Formula tab in the ribbon, go to the drop down menu at the right edge of Define Names then go to Apply Names.
+2. Question 2
+Uma has inherited a spreadsheet from Sean and she has noticed the lack of named ranges in this spreadsheet, she quickly creates named ranges using the Create From Selection method. She believes that the formulas used in the spreadsheet will now be more meaningful. Is there a potential problem with her reasoning?
+2.Yes, if Uma wants the formulas to update she must go to Apply Names and select which named ranges she wants to apply.
+3. Question 3
+Where is the Paste List feature?
+(Multiple options possible. Partial credit is awarded)
+3.Go to the Formulas tab and go to Use in Formula and after selecting it go to Paste Names, then Paste List.
+Use the F3 keyboard shortcut which then lets you click on Paste List.
+4. Question 4
+Why can the Paste List feature be useful to an Excel user?
+(Multiple options possible. Partial credit is awarded)
+4.It can be used to show which ranges the named ranges apply to. This is useful if the worksheet is complex and there is a lot going on.
+Once we have clicked on Paste List we can cut and paste individual ranges into other Excel formulas, and edit them if necessary.
+

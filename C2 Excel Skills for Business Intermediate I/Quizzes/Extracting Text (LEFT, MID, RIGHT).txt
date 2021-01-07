@@ -1,0 +1,11 @@
+Extracting Text (LEFT, MID, RIGHT)
+
+1. Question 1
+What formula would return the first 5 letters of the text in cell A1?
+1.=LEFT(A1,5)
+2. Question 2
+An ISBN is a number that identifies a particular edition of a book. There are 2 lengths of ISBN: ISBN-13 which is 13 characters long and ISBN-10 which is 10 characters long. You can convert from an ISBN-13 to ISBN-10 by removing the first 3 numbers. In cell A2 you have the ISBN-13 9780747532699. How would you convert this to an ISBN-10 (0747532699)?
+2.=RIGHT(A2,10)
+3. Question 3
+Cell A2 contains the US telephone number (939) 555-0113. What will be displayed using the formula =MID(A2,7,3)?
+3.555

@@ -1,0 +1,21 @@
+Data Entry
+
+1. Question 1
+Which of the following will Excel recognize as a date? (One or more answers are possible - partial credit will be awarded)
+ANS.05 Sept 16, 05/09/2016
+2. Question 2
+To clear the contents of a cell (without affecting the surrounding cells), single-click on the cell and...
+(You might want to try this out in Excel. One or more answers are possible. Partial credit will be awarded)
+ANS.Press the Backspace button on your keyboard (Delete on Mac).
+Press the Delete key on your keyboard (Fn+Delete on Mac).
+3. Question 3
+Before you can enter data in an empty cell you must double click on the cell.
+ANS.False
+4. Question 4
+Which of the statements below are correct regarding Excel's behaviour when you enter data into an empty cell?
+(One or more answers are possible. Partial credit will be awarded.)
+ANS.Any number entered is automatically aligned on the right.
+Any text entered is automatically aligned on the left
+5. Question 5
+Sean used a tool to create the contents of cell B7. Which one did he use?
+ANS.Sigma (Summation Tool)

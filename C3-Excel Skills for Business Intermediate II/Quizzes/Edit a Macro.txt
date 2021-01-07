@@ -1,0 +1,15 @@
+Edit a Macro
+
+1. Question 1
+Which of the following options are components of the VBA Editor?
+1.Code Window
+Project Explorer
+2. Question 2
+What is this line in the Code Window referred to and what is it's purpose?
+2.This is a comment - they can appear anywhere in the code and are always ignored by the compiler
+3. Question 3
+What is the purpose of this line of code?
+3.This is the heading row - it stands for subroutine and all macros begin with this line of code
+4. Question 4
+Each instruction to the compiler should appear on a new line in the Code Window.
+4.True

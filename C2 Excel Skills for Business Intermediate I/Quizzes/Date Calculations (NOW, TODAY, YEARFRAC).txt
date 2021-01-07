@@ -1,0 +1,13 @@
+Date Calculations (NOW, TODAY, YEARFRAC)
+
+1. Question 1
+Use the YEARFRAC function to work out how many years difference is there between the date 1980-07-31 (31 July 1980) and 1998-05-02 (2 May 1998) (to 1 decimal place)?
+1.17.8
+2. Question 2
+The keyboard shortcut Ctrl+; is the same as using the TODAY() function. (Note: This is in the Toolbox for this week)
+2.False
+3. Question 3
+Here is a super challenge for you if you feel up for it.
+(You will need to work this out in Excel.)
+In 2017 the Hindu festival of Diwali occurred on Thursday, 19 October. What fraction of the year was this? (to 1 decimal place). Hint: Think carefully which start and end dates to use.
+3.

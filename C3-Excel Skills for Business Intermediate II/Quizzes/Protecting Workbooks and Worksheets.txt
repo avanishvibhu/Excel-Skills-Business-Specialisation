@@ -1,0 +1,13 @@
+Protecting Workbooks and Worksheets
+
+1. Question 1
+In order to protect a worksheet, you need to assign a password.
+1.False
+2. Question 2
+What is the purpose of protecting a worksheet?
+(One or more answers are possible. Partial credit will be awarded.)
+2.To allow a team of users to work on a worksheet without accidentally making changes key elements of the worksheet.
+To protect the structure of one of your worksheets.
+3. Question 3
+These days we have to remember many different passwords. Fortunately, there is a fail-safe built into Excel. In the event that you forget the password you used to encrypt your workbook, Excel can retrieve it.
+3.False

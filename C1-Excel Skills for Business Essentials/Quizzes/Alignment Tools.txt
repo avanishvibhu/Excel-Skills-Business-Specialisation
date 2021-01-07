@@ -1,0 +1,12 @@
+Alignment Tools
+
+1. Question 1
+To get a heading sitting exactly in the middle of several columns which tool should we use?
+1.Would you choose this tool?
+2. Question 2
+Which of the alignment options below match the text in this screenshot?
+2.Horizontal alignment: Left; Vertical alignment: Center
+3. Question 3
+The text entered into a cell doesn't fit and part of it is cut off. Which of the following will make all of the text visible without affecting the layout of your report?
+3.Click on 'Wrap Text'.
+

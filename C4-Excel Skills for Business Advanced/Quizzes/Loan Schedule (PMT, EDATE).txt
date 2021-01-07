@@ -1,0 +1,14 @@
+Loan Schedule (PMT, EDATE)
+
+1. Question 1
+A loan for $1000 accrues 10% interest per annum and is paid back over 5 years with 5 equal payments at the end of each year. The total amount of repayments will be =PMT(10%,5,1000)*5. If instead the loan is paid back with equal payments at the end of each month instead of each year, which formula could give the total amount of repayments?
+1.=PMT(10%/12,5*12,1000)*5*12
+2. Question 2
+What does the optional [FV] argument do in the PMT function?
+2.Allows us to specify the balance to be attained after the last payment is made
+3. Question 3
+We have a loan for $1000 at 5% interest per annum and a 5 year term that we repay with constant payments each month. If we reduce the term of our loan schedule but leave the other variables the same, we will pay more per month. Will our total projected interest paid over the life of the loan go up, go down or stay the same?
+3.It will go down.
+4. Question 4
+Which of the situations would be best suited to use with the PMT function?
+4.We want to calculate the fixed monthly repayments of a car loan.

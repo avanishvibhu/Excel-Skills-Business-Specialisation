@@ -1,0 +1,42 @@
+Working with Data: Test your skills
+
+1. Question 1
+You want to insert 3 columns. Which of the options below will help you to achieve that?
+Multiple answers are possible. Partial credit will be awarded.
+1.You select 3 columns, right-click and go to Insert
+You select a column then click the Insert button on the Home tab 3 times
+2. Question 2
+Sean has carefully set up some complicated Conditional Formatting to one of the columns in his worksheet. He now wants to apply the same rules to another column in his worksheet. What is the quickest way for him to do this?
+2.He can use the Format Painter.
+3. Question 3
+Open the attached workbook. You will notice that some columns have been hidden. Unhide the columns. What is the Product Category for order 5019-1?
+W04-Assessment.xlsx
+3.Technology
+4. Question 4
+Order 5024-1 was cancelled. Delete row 11 (not just the data). What is the updated average in cell S1? (Please put the number only, no currency symbols)
+4.1156.53
+5. Question 5
+You need to find out about the most recent shipment. Sort the data by Ship Date. What was the Ship Date for the most recent item? Enter using yyyy-mm-dd format.
+5.2017-02-08
+6. Question 6
+You need to check the most recent furniture item. Sort the data by Product Category (A-Z) and then Order Date (Newest to Oldest). What is the Customer Type for the most recently ordered Furniture Item?
+6.Corporate
+7. Question 7
+You have been asked to find out about orders placed by the customer Cindy Chapman. Filter the data to show only her orders. How many were High Priority?
+7.1
+8. Question 8
+Clear the previous filter. Use filters to find out how many orders were for Home Office customers, where the Account Manager is Leighton Forrest, with a High priority.
+8.3
+9. Question 9
+Clear the previous filters. Use filters to find out how many orders were for Office Supplies and had a Total over $7,000.
+9.5
+10. Question 10
+Clear the previous filters. Apply a new filter to show the top 1% of orders by Total. What is the Average Quantity for the top 1% (cell M1043).
+10.46
+11. Question 11
+Use the find tool to find order number 6044-1. What is the Priority for this order?
+11.Medium
+12. Question 12
+Tina Carlton has recently married and has chosen to take her partner's name. Start by clicking in cell A1. Use Find and Replace to replace all instances of Tina Carlton with Tina Shaw. Check the message — how many replacements were made?
+On a Mac, go to the Edit menu > Find > Replace.	
+12.137

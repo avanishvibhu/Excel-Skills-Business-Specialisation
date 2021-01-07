@@ -1,0 +1,13 @@
+Net Present Value and Internal Rate of Return (NPV, IRR)
+
+1. Question 1
+Cell A1 contains a discount rate of 5% per annum, cell A2 contains an initial investment of -$1,000 and cells A3:A5 contain positive cashflows from the end of years 1, 2 and 3 of $400 each. Which of these statements best describes what the value returned by the following formula represents?
+=NPV(A1,A3:A5)
+1.The net present value at the start of year 1 of the three future payments of $400.
+2. Question 2
+If cell A1 contains a negative cashflow and cells A2:A4 contain positive cashflows, what can be said about the result of this formula?
+=IRR(A1:A4)
+2.The result will be a value greater than 0 only when the sum of cells A1:A4 is greater than 0.
+3. Question 3
+If cell A1 contains a discount rate of 10% per annum, and cells A2:A121 contain a stream of 120 consecutive monthly payments received over a 10 year period, how could we most easily and accurately find the Net Present Value of these payments from the options below?
+3.Calculate =NPV(A1/12, A2:A121)

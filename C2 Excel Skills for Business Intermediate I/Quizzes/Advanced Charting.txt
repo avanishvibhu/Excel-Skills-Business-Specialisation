@@ -1,0 +1,14 @@
+Advanced Charting
+
+1. Question 1
+Under the Chart Tools Design Tab, what can we customise when clicking on ‘Select Data’?
+(Multiple answers possible. Partial credit will be awarded).
+1.Legend Entries (Series)
+Horizontal (Category) Axis Labels
+Chart Data Range
+2. Question 2
+If we have 5 rows of cells in two columns, and we create a column chart that gives us 5 groupings of columns that have 2 columns within a group, what will clicking on Switch Row / Column do? (Hint: why not try this in Excel and see what happens?)
+2.Converts the chart into 2 groups with 5 columns in each group
+3. Question 3
+Enter the following data into Excel and create a Combo Chart to visualise the data over time. We want to represent the car sales and bike sales as columns, but the revenues as a line chart on a secondary axis. Which chart below most closely resembles the chart that you have generated?
+3.Combo (Line+Bar)

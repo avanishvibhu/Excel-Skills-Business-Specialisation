@@ -1,0 +1,12 @@
+Evaluate Formula, Watch Window
+
+1. Question 1
+In the Evaluate Formula dialogue box, what happens when you press Step In?
+NOTE: These questions refer to features in Excel that are not available in the Mac version of Excel. However, you can still answer the questions by watching the Practice Video on Evaluate Formula, Watch Window in this week.
+1.The formula of the highlighted component is displayed in a new line.
+2. Question 2
+In order to evaluate each part of a formula individually, I can use
+2.Evaluate Formula
+3. Question 3
+Which option allows the user to check the changes applied to a cell(s) containing formula in other worksheets without directly checking the worksheet?
+3.Watch Window

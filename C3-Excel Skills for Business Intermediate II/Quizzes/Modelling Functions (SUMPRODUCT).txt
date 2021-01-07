@@ -1,0 +1,22 @@
+Modelling Functions (SUMPRODUCT)
+
+1. Question 1
+Which of the options below best describes how SUMPRODUCT works ?
+1.SUMPRODUCT finds the product of multipe arrays and then sums up the products.
+2. Question 2
+A colleague is unsure what order the arrays need to be entered in the SUMPRODUCT function. What is the best response to this?
+2.It is actually not necessary to use a particular order when placing the arguments in SUMPRODUCT.
+3. Question 3
+How can SUMPRODUCT be used to add up values that meet certain criteria (perform a COUNTIF)?
+3.It finds the product element wise of one times whether each element in the array met the condition (1 if it did and 0 if it didn’t) and then sums up the resulting products.
+4. Question 4
+The arrays in a SUMPRODUCT can have differing amounts of rows and columns.
+4.False
+5. Question 5
+When using SUMPRODUCT to calculate the total marks of students in Column G, for efficiency, which array will need to be in absolute cell referencing terms?
+5.$B$3:$F$3
+6. Question 6
+For the Excel worksheet below, typing either of the following two formulas in cell G5 will return the same answer:
+=SUMPRODUCT(B5:F5,$B$3:$F$3)
+=SUMPRODUCT($B$3:$F$3,B5:F5)
+6.True

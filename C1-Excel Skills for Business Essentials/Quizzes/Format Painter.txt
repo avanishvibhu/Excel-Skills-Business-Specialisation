@@ -1,0 +1,21 @@
+Format Painter
+
+1. Question 1
+Which of the following formats does the Format Painter copy? (One or more answers are possible - partial credit will be awarded)
+1.Font size
+Text alignment
+Font type
+Borders
+Number format
+Cell background fill
+2. Question 2
+Sean has created a great looking table and has decided to format one of his other reports in just the same way. How can he do this?
+If you are not sure, why don't you try it out in Excel? That's the best way to learn. Download the workbook here.
+tickets.xlsx
+2.He needs to select his entire worksheet, single-click on the Format Painter and then click on cell A1 or the first cell of his new worksheet.
+3. Question 3
+What are banded rows and how can we create them?
+3.Banded rows alternate in colors to improve readability of spreadsheets. They can be set up by manually filling the background of one row and then select that row and the next one with no fill. Now you use the format painter and drag those rows in which you want to see the banded rows.
+4. Question 4
+What happens when you select a section of your spreadsheet, click this drop-down and select the first option?
+4.It will clear everything from that entire selection.

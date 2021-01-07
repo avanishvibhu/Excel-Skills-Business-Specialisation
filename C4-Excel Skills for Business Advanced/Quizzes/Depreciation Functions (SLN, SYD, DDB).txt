@@ -1,0 +1,12 @@
+Depreciation Functions (SLN, SYD, DDB)
+
+1. Question 1
+An asset worth $10,000 is depreciated over 4 years using the Sum of Years Digits method, with no salvage value. What is the amount of depreciation in the first year?
+1.$4,000
+2. Question 2
+Which of the three functions (SLN, SYD, DDB) only requires 3 arguments?
+2.SLN
+3. Question 3
+An asset with a salvage value of $1000 is depreciated using the DDB function. If the DDB function returns a value of zero for a specified period number, what does this mean?
+3.Depreciation from past periods has already brought the asset value down to the salvage value, so there can be no more depreciation.
+

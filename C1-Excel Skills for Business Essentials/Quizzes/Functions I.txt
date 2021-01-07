@@ -1,0 +1,11 @@
+Functions I
+
+1. Question 1
+Select the formula that correctly and efficiently adds all cells from B3 to B6 (also known as a range).
+1.=SUM(B3:B6)
+2. Question 2
+Before pressing AutoSum you must type "=".
+2.False
+3. Question 3
+Sean used AutoSum to create the calculation in D2 as shown. He then used the fill handle to copy it down to D4. What calculation is now in D4?
+3.=SUM(A4:C4)

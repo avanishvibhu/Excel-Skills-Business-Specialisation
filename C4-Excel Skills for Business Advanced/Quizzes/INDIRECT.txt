@@ -1,0 +1,22 @@
+INDIRECT
+
+1. Question 1
+What style of referencing does the INDIRECT function use by default?
+1.A1
+2. Question 2
+The reference text for the INDIRECT function can contain which of the following elements?
+(Multiple answers possible, partial credit awarded)
+2.R1C1-style reference
+A formula
+A1-style referen
+A reference to a cell as a text string
+A name defined as a reference
+3. Question 3
+What would Excel return if we typed =INDIRECT(G14) in cell C11?
+3.#REF!
+4. Question 4
+What would Excel return if we type =INDIRECT(C14) in cell C11?
+4.Kin Tiv
+5. Question 5
+The formula =SUM(INDIRECT(C5)) has been entered in cell C6, where August is a named range for all the prices of properties sold in August. What other formula would return the same value (although it might not be as flexible)?
+5=SUM(August).

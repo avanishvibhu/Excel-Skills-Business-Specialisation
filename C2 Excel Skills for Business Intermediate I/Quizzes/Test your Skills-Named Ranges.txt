@@ -1,0 +1,51 @@
+Test your Skills: Named Ranges
+
+1. Question 1
+A travel expenses template has been compiled for your company to make it easier for staff to record their expenses when travelling to branches in other countries. It has recently been updated and the named ranges have been damaged in the process so most of the formulas are returning an error. You need to correct the named ranges to fix the problem.
+Have a look at the Travel Expense worksheet. Note there are quite a few errors. Start by addressing the problem of the missing exchange rates by naming the ranges. Go to the Currency Rates worksheet and use Create from Selection to name all the rates (A4:B12) using the labels in column A.
+What value is now showing for the Other Expenses in K6?
+Don't enter the currency symbol - please enter the number as ##.##
+C2 W3 Assessment Workbook.xlsx
+1.15.76
+2. Question 2
+While the calculation of Other Expenses is looking better it is still not correct. Open the Name Manager. There is a range called Coffee that is no longer used, so delete it. Now have a look at Ex_Rate, it only goes to row 14, which explains the incorrect calculation. Edit it to go from L11:L21. Click OK and close the Name Manager.
+What is the corrected value for Other Expenses in K6?
+Don't enter the currency symbol - please enter the number as ##.##
+2.27.49
+3. Question 3
+Let's fix Travel Costs next. Open the Name Manager, there is a named range called Travel_Costs, but this is the wrong name, change it to TravelCosts and click OK and close the Name Manager.
+What is the corrected value for Transportation Expense in K3?
+Don't enter the currency symbol - please enter the number as ##.##
+3.495.27
+4. Question 4
+Next, Lodging Costs. Use any method you think suitable to give the name Lodging_Costs to range F11:F21. What is the corrected value for Lodging Expense in K4?
+Don't enter the currency symbol - please enter the number as ##.##
+4.2546.41	
+5. Question 5
+And now to fix meals, let's be efficient and use Create from Selection to name all three ranges simultaneously. Select G10:I21 and click Create from Selection. What is the corrected value for Meal Expense in K5?
+Don't enter the currency symbol - please enter the number as ##.##
+5.1279.42
+6. Question 6
+Our Travel Expense worksheet is now looking good, but we would also like to complete a breakdown of expenses by region. Start by adding the following named ranges:
+E11:J14- London
+E15:J18- Paris
+E19:J21- Mumbai
+Now go to the Summary By Region worksheet and observe the calculated values for London. What was the total amount spent in London in USD (D4)?
+Don't enter the currency symbol - please enter the number as ##.##
+6.2270.19
+7. Question 7
+Enter a formula in C5 to add up the total amount spent in Paris (use the named range you have just created). Then do the same in C6 for Mumbai.
+What was the total amount spent in Mumbai in Rupees (C6)?
+Don't enter the currency symbol - please enter the number as ##.##
+7.24190.02
+8. Question 8
+In D5 create a calculation to convert Euros to Dollars by multiplying the Euros spent (C5) by the exchange rate for Euro (which is named EUR). Perform a similar calculation to convert the Indian Rupees to Dollars.
+What was the total USD spent in Paris?
+Don't enter the currency symbol - please enter the number as ##.##
+8.1701.28
+9. Question 9
+Click in D7 and use Autosum to get the total spent in USD. If we were to now name the range D4:D6, would the formula just created in D7 automatically change to use the named range? You should not actually create this named range.
+9.No, but you could use the Apply Named Range to apply it.
+10. Question 10
+Click in B9 (still in Summary By Region), and use the Paste Names tool to Paste all the named ranges into your workbook. What value is in B25?
+10.Paris

@@ -1,0 +1,8 @@
+Relative Reference Macros
+
+1. Question 1
+Any references used in macros are treated as relative references by default.
+1.False
+2. Question 2
+Which of the options below explain why you would choose to use relative references in a macro?
+2.You want to make sure that the macro choses cells relative to a position you chose when you recorded the macro.

@@ -1,0 +1,18 @@
+Finding a Position: MATCH
+
+1. Question 1
+Which of the following properties are true for the MATCH function?
+1.The data has to be arranged in a specific order to use the MATCH types of less than or greater than.
+The MATCH function returns the position of a lookup value in the lookup array.
+The MATCH function does not care if the lookup array is horizontal or vertical.
+2. Question 2
+What are the required arguments of a MATCH function?
+2.lookup_array
+lookup_value
+3. Question 3
+Is it necessary to highlight all of the column headings (this must correspond to your table array) when using the VLOOKUP and MATCH functions together?
+3.Yes, it is necessary. You have to make sure that the VLOOKUP table array matches the MATCH lookup array.
+4. Question 4
+What is the purpose for the format of the reference (in bold)?
+=VLOOKUP([@Item],parts,E$4,FALSE)
+4.The reference is a mixed reference, and we are using it so that we can drag the formula down to copy it.

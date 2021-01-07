@@ -1,0 +1,11 @@
+Styles and Themes
+
+1. Question 1
+The color settings in Cell Styles on the Home tab can only be changed by selecting preset Excel themes.
+1.False
+2. Question 2
+Choosing a different theme will override all previous formatting.
+2.False
+3. Question 3
+When changing the theme on any worksheet in a workbook, all sheets will be affected.
+3.True

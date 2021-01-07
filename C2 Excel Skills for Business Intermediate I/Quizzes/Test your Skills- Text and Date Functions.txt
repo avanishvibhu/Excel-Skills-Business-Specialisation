@@ -1,0 +1,42 @@
+Test your Skills: Text and Date Functions
+
+1. Question 1
+It is necessary to provide more meaningful labels for boxes of items in stock. The first tab of the attached workbook contains the inventory items. You will need to generate the information needed on the For Printing tab using a range of text functions.
+On the Inventory tab enter a formula in J1 that will return the current date but not time. What function did you use?
+Please enter just the function name all in UPPERCASE letters with no equal sign, brackets or arguments.
+1.TODAY
+2. Question 2
+In J4 calculate the number of days since the last order, copy the formula down to J35. What is the check digit value in G1?
+Please enter just the number without decimal places, e.g. ###.
+2.
+3. Question 3
+In the For Printing worksheet in A5, generate a part code using "SKU-" followed by the Material Code, another "-" and the Part Number, e.g. SKU-07-2425. Copy the formula down. What is the value for Check Digit 1 (cell H5)?
+Please enter just the number ####.
+3.1767
+4. Question 4
+In B5 we need to see the material in upper case. Copy the formula down. What is the value for Check Digit 2 (cell H6)?
+Please enter just the number ####.
+4.5827
+5. Question 5
+In C5 we want to create a Distributor Code, which is the first 5 characters of the Distributor Name. Which function did you use?
+Please enter just the function name all in UPPERCASE letters with no equal sign, brackets or arguments.
+5.LEFT
+6. Question 6
+To avoid confusion, make a change to the formula in C5 so that all Distributor Codes show in all lower case. Copy the formula down. What is the value for Check Digit 3 (cell H7)?
+Please enter just the number.
+6.6275
+7. Question 7
+Many of the part descriptions are too long, so in D5 create a calculation to get the first 8 characters of the part description and then copy the formula down. That's not ideal, so we want to change it to get all the text to the left of the first comma. Which function will allow us to locate the position of the first comma?
+Please enter just the function name all in UPPERCASE letters with no equal sign, brackets or arguments.
+7.FIND
+8. Question 8
+Change the calculation in D5 to retrieve the part description up to the first comma. Copy the formula down. What is the value of Check Digit 4?
+Please enter just the number ####.
+8.3203
+9. Question 9
+The Distributor Address is in the format: "Street Address, Postcode, State". In E5 enter a calculation that will retrieve just the post code from the Distributor Address. Which of the following combination of functions could you use to achieve this?
+9.MID and FIND
+10. Question 10
+Change the calculation in E5 to also include the State before the postcode, e.g. NSW2007. Copy the formula down. What is the value of Check Digit 5?
+Please enter just the number ####.
+10.

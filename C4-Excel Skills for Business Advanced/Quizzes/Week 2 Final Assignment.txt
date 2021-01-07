@@ -1,0 +1,60 @@
+Week 2 Final Assignment
+
+1. Question 1
+In this week's assignment, you will be doing some analysis of basic weather data. Download and open the workbook:
+C4 W2 Final Assessment.xlsx
+Important notes before you get started:
+Avoid inserting or deleting rows or columns in any of the worksheets, or moving the location of any existing cells. Doing so may cause the Check Sums to give different values, and then you won't be able to submit the correct answer.
+Make sure to save your progress on the workbook frequently.
+----------------------------------------------
+The workbook contains annualised average high and low temperatures for 51 cities from the USA, in both Celsius and Fahrenheit. This is contained in the sheet Raw_Data in a random order. A subset of this data for the cities beginning with the letters A to D is also in the sheet Table_Data as an Excel Table with the name City_Subset.
+To begin, go to the worksheet Table_Data.
+We will start with filling in some simple formulas to make sure you are comfortable with using structured references.
+In cell C22, use the COUNTA function to get a count of the number of cities in this table. Your formula must contain a structured reference.
+Enter the formula below.
+Note: Don't add any spaces in your answer below, you must use the English name for the COUNTA function.
+1.=COUNTA(City_Subset[Location])
+2. Question 2
+Using similar structured references, but with a different function and different columns of the table, complete cells C23 and C24 with formulas to find the average High Fahrenheit temperature, and the Minimum Low Fahrenheit temperature.
+In cell C26, calculate the product of C22:C24.
+Submit your answer from cell C26.
+2.33264
+3. Question 3
+Now we are going to write a formula with structured references to convert the temperatures from Fahrenheit to Celsius. The way to do this is given in the yellow box at cell F2. For example, 104 F converted to Celsius is (104 - 32) * (5/9) = 40. Write a formula in cell F6 that can be dragged across and down the rest of the green cells. Start by typing =(City_Subset[ and then try and use the appearing menus to help with the rest of the syntax. Remember to use the @ symbol to refer to the current row.
+Once you have your formula in cell F6, apply it to the rest of the range of cells F6:G19.
+Submit the answer from the Check_Sum in G22.
+3.2294
+4. Question 4
+Now let's move on to the larger data set in the sheet Raw_Data. This has a larger list of 51 cities, but they are in a random order. The first thing we are going to do is use formulas to generate a list of the locations in alphabetical order.
+In column K, write a formula at cell K4 using the COUNTIFS function that finds the relative ranking alphabetically of each of the locations. As a way to check your answer, San Antonio (row 4) should be ranked 43. When you are done, apply the formula to cells K4:K54 and, submit the value of the checksum from cell K1.
+4.38940
+5. Question 5
+In column L, write a formula at cell L4 using the MATCH function to find the location of the helper index value (column I) within the ranks you found in column K. For example, the number "1" (row 4 in column I) appears in the 6th cell in column K, and so the value in cell L4 should be 6.
+When you are done, apply the formula to cells L4:L54 and submit the value of the Check Sum from cell L1.
+5.35027
+6. Question 6
+Now we can get our sorted location list. In cell M4, use an INDEX function that refers to columns B and L to return the sorted Location list, and apply it to cells M4:M54. When you are done, submit the value of the Check Sum from cell M1.
+6.4698
+7. Question 7
+For the next question, we are going to use a multi-cell array formula. To do this, we will start by selecting ALL of the cells that our formula will be entered into, and then we will type our formula followed by Ctrl+Shift+Enter. Our formula is going to return 5 values, and so we will be entering it into 5 cells.
+Start by entering the numbers 1 to 5 in the yellow cells O4:O8. You can do this the conventional way or as an array. Then, in cells P4:P8, write a single multicell array formula using the LARGE function and references to columns C and O so that it returns the 5 largest values in the High_F data. When you are done, sum these 5 values at cell P10 and submit the value in P10.
+7.417
+8. Question 8
+Let's try a single cell array formula now. We will focus on the Celsius values in columns E and F. If we were asked to find the sum of all Low_C (column F) values that are less than 10, we could do this pretty easily by using a regular SUMIFS function. But we could also do it with an array formula using the SUM and IF functions separately, and the syntax would be =SUM(IF(F4:F54<10,F4:F54,0)) then Ctrl+Shift+Enter. There's not much advantage here to using one or the other, but the array option gives us more flexibility to modify the calculation, as we will see in this question which cannot be solved with a single regular SUMIFS function.
+Write a single cell array formula in P15 that sums the value of [High_C * Low_C] for all locations that have a Low_C value less than 10. When you are done, submit your answer.
+8.{=SUM(IF(Low_C<10,Low_C*High_C,0))}/3294
+9. Question 9
+For the last part of this assignment, go to the Distances worksheet. Here we are going to complete a cross-table of distances for 5 fictional towns. We are provided with the distance between each town pairing at cells B14:D38, but we would like these presented in a 5*5 grid, with only the upper-right diagonal half of the grid activated. (Since the distance from Alphaville to Betaburg is the same as the distance from Betaburg to Alphaville, there is no need to list it twice!)
+We will have three tasks.
+First, we will use array formulas and the TRANSPOSE function to fill in the table headers in the yellow cells. Then, we will write a formula to fill in the green cells of the top table. Finally, we will write an array formula to fill in the bottom table so that all of the grey cells are zero.
+Select cells H6:H10, and type =Towns and then Ctrl+Shift+Enter. You have filled in the row headers. Now, select cells I5:M5 and write an array formula using the TRANSPOSE function to fill in the column headers. When you are done, submit the value from the first of the 3 checksums at cell H14.
+9.91256
+10. Question 10
+Now we will populate the green cells at I6:M10. You will need to write a formula that refers to the distance table for the relevant town-pairing. This is probably best done by writing a regular formula in cell I6 with a mix of absolute and relative references, and then dragging it across and down. There are many ways to do this, use whatever you prefer. If you are stuck, try using the SUMIFS function, with the criteria that your row headers must match Town 1 (column B) and your column headers must match Town 2 (column C). When you are done, submit the value from the second checksum at cell H15.
+10.2672
+11. Question 11
+For the final question, we will use a multi-cell array formula to populate the final table. Row and column counters have been provided for us (the numbers 1 to 5 to the left and above the table). We can use these to help us fill in only the green cells by writing a condition that returns the value from the first table only when the row counter (G21:G25) is less than or equal to the column counter (I19:M19).
+Select all of the cells I21:M25, write a single array formula that refers to the top table and employs this counter-condition that will successfully accomplish the task, and press Ctrl+Shift+Enter. The values in the grey cells should be 0. When you are done, submit the value from the third checksum at cell H16.
+HINT: Don't be alarmed if the main diagonal of the table gives values of zero. This is what we expect since the distance from a town to itself is zero.
+Save your work. Well done.
+11.3766

@@ -1,0 +1,25 @@
+Introducing Named Ranges
+
+1. Question 1
+Which of the following named ranges is valid?
+1._Sales2016
+2. Question 2
+Named ranges behave like absolute cell references
+2.True
+3. Question 3
+Named ranges always contain a single cell.
+3.False
+4. Question 4
+Which of the following are valid characteristics of names for named ranges?
+(Multiple answers possible. Partial credit awarded)
+4.Letters
+Underscores
+Restricted length (no more than 255 characters)
+5. Question 5
+Uma wants to create a name for the range showing the Expenses for 2017. She types in Exp2017 but Excel rejects the name. What is the problem?
+5.Exp2017 is a cell reference
+6. Question 6
+We can use the name box to:
+(Multiple options possible. Partial credit awarded)
+6.Navigate to the range of an existing named range.
+Name a new named range.

@@ -1,0 +1,17 @@
+Formula Calculation Options
+
+1. Question 1
+Which of the statements below is true about circular references?
+(One or more answers are possible. Partial credit will be awarded)
+1.If your spreadsheet contains one or more circular references, Excel will display this in the Status Bar.
+Circular references can be found using the Error Checking tool
+Circular references occur when the calculation cell is included in the range used for the calculation.
+2. Question 2
+What does it mean when a cell has a small green triangle in the top-left corner?
+2.The green triangle indicates that Excel considers that there is an error in the formula in the cell.
+3. Question 3
+In the Error Checking options, you can set the automatic calculation of formulas in your spreadsheet to manual.
+3.False
+4. Question 4
+Once set to manual, workbook calcuations can only be done by re-setting the calculation options to automatic.
+4.False

@@ -1,0 +1,66 @@
+Week 6 Final Assignment
+
+1. Question 1
+You have decided to write a macro to quickly and easily generate an expense sheet. Follow the steps carefully and answer the questions as you go.
+Create a new blank workbook. Save it with the name Expenses and change the file type to one that will support macros. Which of the following would be a valid option?
+1.Macro-Enabled Workbook (.xlsm)
+2. Question 2
+Which option would we click on the Developer tab to add a trusted location?
+2.Macro Security
+3. Question 3
+Record a Macro following these steps (you may wish to run through them first).
+Ensure Relative Referencing is off. Click in B1. Open the record macro dialog, change the macro name to Expenses, give it a shortcut key Ctrl+Shift+E, click OK to start recording
+Click in A1 and type Expenses, click Enter twice.
+In A3 type Date, in B3 type Description, in C3 type Distance and in D3 type Cost, press Enter.
+In A4 type =TODAY()-WEEKDAY(TODAY(),3) to get the first date of the current week. Press Enter.
+Copy A4 and Paste Values into A4 to replace the calculation with the result.
+Use the Fill Handle to copy A4 down to A8. Press Enter
+In A9 type TOTAL, press Tab three times.
+In D9 type =SUM(D4:D8) and press Enter.
+Change the font size of A1 to 20 and widen column B.
+Click Stop Record and save your workbook.
+If you made a mistake while recording, you could always stop recording, delete the macro and start again…
+3.True
+4. Question 4
+Open the Macro in the Visual Basic editor. The very first line should say Sub Expenses(). We are not going to change it but if someone changes it to Sub Travel Expenses() what will happen?
+4.The Macro will generate an error
+5. Question 5
+Look at the lines of code directly beneath the Sub with the apostrophes (') in front, these lines are called…
+5.Comments
+6. Question 6
+Look at the line that says:
+' Keyboard Shortcut: Ctrl+Shift+E
+If we changed it to Ctrl+E what will happen?
+6.
+7. Question 7
+Find the line of code that does the SUM. It looks a bit unusual as it is a relative reference formula. Which of the following formulas is correct (as shown in your code):
+7.ActiveCell.FormulaR1C1 = "=SUM(R[-5]C:R[-1]C)"
+8. Question 8
+In the formula above, if we were to replace the 5 with a 4 what would happen when we ran the macro?
+8.
+9. Question 9
+Find the line of code that says
+.Size = 20
+Change it to
+.Size = 24
+Which of these statements is true:
+9.The heading Expenses will be set to size 24 next time the macro is run
+10. Question 10
+Return to the Excel spreadsheet. Which keyboard shortcut can we use for this (on the PC)?
+10.Alt+F11
+11. Question 11
+Click in a blank worksheet (if necessary add one). Click into cell B2 and run the macro. Which statement is true of the heading Expenses? (Note: If the macro generates an error, try recording it again and don't make any edits to it.)
+11.It has been inserted in A1 but if relative referencing had been on it would be in A2
+12. Question 12
+In C4 enter the distance 52.5 and copy down to C8. We want to record a macro that will multiply the distance travelled in the cell to the left by 0.73.
+Click in D4 and record a relative reference macro called Calc that multiplies the value in the cell to the left by 0.73, press Enter, and then stop recording. Open the macro in the VBA editor. What is the second line of executable code?
+12.ActiveCell.Offset(1, 0).Range("A1").Select
+13. Question 13
+Return to the spreadsheet and click in D5. Run the Calc macro. Which cell is now selected?
+13.D6	
+14. Question 14
+We would like to be able to run the Calc macro from a button in the worksheet. Insert a shape in the worksheet and change the label to Calc. To run the macro we right click on the shape and select Run.
+14.False
+15. Question 15
+Save your workbook but leave open. Create another blank workbook. Click in cell A1 and type 192 then press Enter (to go to cell A2). Run the macro Calc. What result is returned and why?
+15.0

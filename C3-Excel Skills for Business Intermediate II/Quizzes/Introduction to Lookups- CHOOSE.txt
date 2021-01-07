@@ -1,0 +1,16 @@
+Introduction to Lookups: CHOOSE
+
+1. Question 1
+Download and open the workbook:
+W3_Choose.xlsx
+Your friend has entered the following formula in cell C6 and wishes to copy it down. =CHOOSE([@[Loc Code]],K6,K7,K8,K9,K10). Can you predict what will happen?
+1.This will work fine for the first one but won’t produce the desired outcome for the lower values in the table.
+2. Question 2
+In the video we mention that the CHOOSE function is not necessarily the best choice when we have a large lookup table. Can you think of why this is the case?
+2.It will take a long time to type out a long list since we can only separate the values by commas.
+3. Question 3
+Which of the options below is an accurate definition of the CHOOSE function?
+3.The CHOOSE function is pointed to an index and a list of values. CHOOSE then returns the value that corresponds to the position in that list. The first item in the list is counted as 1.
+4. Question 4
+It is important to understand the syntax of the CHOOSE function. What is the first argument that the CHOOSE function is asking for?
+4.An index number - this is the numeric value that provides the position within the list.

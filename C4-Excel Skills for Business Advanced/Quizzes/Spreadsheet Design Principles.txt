@@ -1,0 +1,17 @@
+Spreadsheet Design Principles
+
+1. Question 1
+Which of the following are recommended as good practice?
+(Multiple answers possible, partial credit awarded).
+1.Use consistent naming conventions for table and ranges.
+Dual entry of data should be avoided.
+2. Question 2
+Which of the following are good strategies to keep your workbooks flexible and responsive?
+(Multiple answers possible, partial credit awarded).
+2.Used named ranges in your calculations.
+Convert data into tables.
+3. Question 3
+Which of the following are advisable strategies when working with datasets?
+(Multiple answers possible, partial credit awarded).
+3.Use data validation techniques for data that is manually entered.
+Modularise your data so that only one single type of data occupies one column.

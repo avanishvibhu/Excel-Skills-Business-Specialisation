@@ -1,0 +1,15 @@
+Formatting
+
+1. Question 1
+Which of the statements about styles in Excel below are true?
+(Multiple answers possible, partial credit awarded)
+1.Styles control different types of format, including number format and protection.
+Once applied, a style can be changed in one location and will affect all occurrences of that style in other parts of the workbook.
+2. Question 2
+When a new row is added to a table, the formatting from the previous row needs to be re-applied.
+2.No, that statement is not true.
+3. Question 3
+We would like a custom format for our date and have entered the following into the Type field in the Format Cells dialog.
+d mmmm yy
+What will our date output for the ninth of January 2017 look like?
+3.9 January 17

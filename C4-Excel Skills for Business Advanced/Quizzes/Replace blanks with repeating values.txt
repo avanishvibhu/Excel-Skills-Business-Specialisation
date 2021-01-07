@@ -1,0 +1,11 @@
+Replace blanks with repeating values
+
+1. Question 1
+The Go To Special command is a useful way of selecting the blank cells in a region, and can be accessed from the Find & Select menu. Where in the Ribbon is the Find & Select menu located?
+1.Home tab
+2. Question 2
+What was the quick method used in the video for making a copy of the existing worksheet?
+2.Holding down Ctrl and then clicking, holding, dragging and releasing the worksheet tab name with the left mouse button.
+3. Question 3
+Which of these statements describes the behaviour of the ISBLANK function?
+3.Checks whether a reference is to an empty cell, and returns TRUE or FALSE.

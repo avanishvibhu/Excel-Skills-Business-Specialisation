@@ -1,0 +1,17 @@
+Creating and Modifying a Pivot Table
+
+1. Question 1
+When you create a Pivot Table, your data must be in a Table beforehand.
+1.False
+2. Question 2
+You can only have one Pivot Table in a worksheet.
+2.False
+3. Question 3
+What combination of settings was used to create this Pivot Table?
+3.Order Year in Columns, Sum of Total in Values
+4. Question 4
+Uma has just watched the video on creating Pivot Tables and she is excited that you don't need to highlight the whole data range to create a pivot table, all you need to do is make sure that you are clicked on one of the cells in the data range. Has Uma understood the topic well?
+4.No, you can just specify the table/range and Excel will know where the data is located.
+5.Which of the following is NOT part of a Pivot Tables?
+(Multiple answers possible. Partial credit awarded).
+5.Sparklines

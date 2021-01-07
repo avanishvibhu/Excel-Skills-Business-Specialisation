@@ -1,0 +1,13 @@
+Page Breaks
+
+1. Question 1
+Where do you find the tool that lets you insert a Page Break?
+1.Navigate to the PAGE LAYOUT tab and click on Breaks
+2. Question 2
+Observe the active cell (selected cell) in the screen shot below is D5. What will result if we click Breaks and then select Insert Page Break?
+2.A vertical page break will be inserted to the left of column D and a horizontal page break will be inserted above row 5.
+3. Question 3
+What can Excel do when you manually adjust a page break? (One or more answers are possible - partial credit will be awarded)
+3.It can change the scale of that page.
+It can change the appearance of the page break.
+It can change the number of columns on that page.

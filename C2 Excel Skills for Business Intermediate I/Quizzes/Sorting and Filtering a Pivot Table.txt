@@ -1,0 +1,16 @@
+Sorting and Filtering a Pivot Table
+
+1. Question 1
+To form a grouping like a grouping by quarter and year I have to:
+(Multiple answers are possible. Partial credit will be awarded)
+1.Click on one of the cells included in that field and go to Group selection in the Analyze tab (in the Group tools).
+Click on one of the cells included in that field and right-click and go to Group.
+2. Question 2
+Using the attached Workbook:
+W6_GroupSortFilter.xlsx
+Create a Pivot Table that shows the sum of total by months. (Hint : Drag Order Year out of row labels, drag Order Date into the Column Labels, the rest should be obvious now.)
+What is the sum of total for 2013, February, NSW?
+2.9157.58
+3. Question 3
+Sean has applied a filter to the row and column, he now wants to remove the column filter. Uma suggests that he can go to the Data tab in the ribbon and press Clear in the Sort & Filter tools. Is Uma right?
+3.No

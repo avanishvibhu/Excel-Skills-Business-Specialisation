@@ -1,0 +1,11 @@
+Working with Dates (EOMONTH, EDATE, WORKDAY.INTL)
+
+1. Question 1
+If cell A1 contains a valid date, what will the formula =EOMONTH(A1,0) do?
+Return a date equal to the last day of the month in which cell A1 falls, no matter what date is in cell A1.
+2. Question 2
+If cell A1 contains a date, cell B1 has the formula =A1+14 and cell C1 has the formula =WORKDAY.INTL(A1,10), which of these statements best describes the difference between the formulas in cells B1 and C1?
+2.B1 will sometimes equal C1 and sometimes give a date later than C1.
+3. Question 3
+If cell A1 contains a valid date from the month of August 2017, what will the formula =EDATE(A1, -1) do?
+3.Return a date that is 31 days earlier than the date in cell A1.

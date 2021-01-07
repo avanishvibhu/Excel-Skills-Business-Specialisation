@@ -1,0 +1,11 @@
+Absolute Cell References
+
+1. Question 1
+To change a relative cell reference A1 to an absolute cell reference you use
+1.$A$1
+2. Question 2
+The keyboard shortcut to create an absolute cell reference is
+2.F4 (Mac: Cmd+T)
+3. Question 3
+The calculation shown will give the correct discount for the first item, but when we copy the formula down it won’t give the correct answer for the next two items. Which of the following will address this problem?
+3.=$D$2*A2

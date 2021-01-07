@@ -1,0 +1,39 @@
+Week 1 Final Assignment
+
+1. Question 1
+The attached spreadsheet provides information regarding the companies 60 jobs in three states (NSW, QLD, and VIC). Have a look at the Jobs-Data worksheet. Find the cells that contain Data Validation to answer the first question.
+C3 W1 Assessment.xlsx
+Which column contains Data Validation? (Write the column letter)
+1.J
+2. Question 2
+One of the cells in that column contains invalid data. Use the Data Validation tools to search for any invalid data and correct it.
+Which cell contains invalid data? (Write the cell address)
+2.J14
+3. Question 3
+Find the cell where Data Validation has been applied unnecessarily and remove the data validation from the cell.
+Which cell contains unwanted data validation? (Write the cell address)
+3.J3
+4. Question 4
+Apply a drop-down list to cell M6 (3 states: NSW, QLD, VIC) and create a formula in cell O6 to calculate the number of jobs in the selected state.
+Find the number of jobs in the state of VIC.
+4.24
+5. Question 5
+Apply a drop-down list to cell M10 (3 states: NSW, QLD, VIC) either from scratch or by copying the validation from M6. Create a formula in cell O10 to calculate the total profit from the jobs in the selected state.
+Find the total profit from the jobs in the state of NSW. (put in the number only, no separators or currency sign)
+5.248490
+6. Question 6
+Apply a drop-down list to cell N14 (Numbers: 1, 2, 3, …, 9) and apply Conditional Formatting to the Number of people column to find out the number of jobs with more than the number of people in the cell N14.
+How many jobs have more than 8 people?
+6.7
+7. Question 7
+Apply Data Validation to the Job number column to avoid duplicate job numbers. Is there any duplicated data in this column after applying Data Validation? Specify the cell addresses, separated by a comma.
+7.
+8. Question 8
+Add Data Validation to the Markup percentage column to have any number between 0.1 to 0.5. Which is the best option for the type of validation criteria?
+8.Decimal
+9. Question 9
+The Job start date column should be validated to have the Job date after 2015-07-01. Which is the best option for the type of validation criteria? Apply the validation to this column.
+9.Date/Greater than
+10. Question 10
+Copy the Job start date column Data Validation to Estimated finish date column. Which cell/cells contain invalid data if any?
+10.E62

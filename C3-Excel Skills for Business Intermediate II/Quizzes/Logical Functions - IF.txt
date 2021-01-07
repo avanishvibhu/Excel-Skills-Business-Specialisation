@@ -1,0 +1,14 @@
+Logical Functions I: IF
+
+1. Question 1
+How many arguments are expected by the IF function?
+1.Three
+2. Question 2
+Using the IF function to determine the maximum of 2 cells A1 and B1 the coding could look like:
+2.=IF(A1>B1,A1,B1)
+3. Question 3
+If we want to report whether A1 and B1 are the same in value using the IF function, the coding could look like:
+3.=IF(A1=B1,"same","")
+4. Question 4
+If we want to report whether A1 and B1 are different in value using the IF function, the coding could look like:
+4.=IF(A1=B1,"","different")

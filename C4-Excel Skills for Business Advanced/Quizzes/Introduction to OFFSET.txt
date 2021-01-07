@@ -1,0 +1,11 @@
+Introduction to OFFSET
+
+1. Question 1
+What will Excel return if we type =OFFSET(B10,2,2)?
+1.1.06%
+2. Question 2
+What will Excel return if we type =OFFSET(B10,-2,2)?
+2.0.66%
+3. Question 3
+What would Excel return if we type the formula =OFFSET(B5,ROUNDDOWN(D2-80.01,0),2)?
+3.0.66%

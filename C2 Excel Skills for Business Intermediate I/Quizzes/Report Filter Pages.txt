@@ -1,0 +1,17 @@
+Report Filter Pages
+
+1. Question 1
+Using the attached Workbook:
+W6_ReportFilters.xlsx
+Create a filter by Customer Type. (Hint: drag Customer Type into Report Filter).
+Filter by Home Office and Small Business. What is the total for 2016 Qtr 1 in VIC?
+1.1481.08
+2. Question 2
+Using the same Pivot Table as you did in Question 1, select Show Report Filter Pages. Which of the following is true?
+2.Two new worksheets with new Pivot Tables have been added, one showing data for Home Office and one for Small Business.
+3. Question 3
+Uma suspects that the figures for 2015 Qtr 1 may be incorrect due to missing sales entries. How can Uma quickly investigate this value in the Pivot Table?
+3.Uma can double-click on the cell of interest to generate a list of all the records that yielded that value.
+4. Question 4
+Uma has accidentally closed her field list. How can she get it back?
+4.Navigate to the PivotTable Analyse tab and click Field List

@@ -1,0 +1,11 @@
+Calculations across Sheets
+
+1. Question 1
+In order to use values in other worksheets in a calculation, you must first copy them into the worksheet containing the calculation.
+1.False
+2. Question 2
+The formula =Sheet1!A2*A2 tells Excel to:
+2.Multiply the value in A2 in Sheet1 by the value in A2 in the current sheet
+3. Question 3
+When you reference cells on other sheets in a calculation you can use relative references to copy that formula to other cells.
+3.True

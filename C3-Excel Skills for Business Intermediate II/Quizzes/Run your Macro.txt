@@ -1,0 +1,14 @@
+Run your Macro
+
+1. Question 1
+Why does Excel check with you first before it enables macros upon opening a file?
+1.The default security settings in Excel check this as macros may contain harmful code and might do damage to your files and your computer.
+2. Question 2
+Where can you find and adjust the settings for how Excel handles macros?
+2.Go to the Developer tab and locate the Code group, then click on Macro Security.
+Go to the Backstage and locate the Trust Center in the Options menu.
+3. Question 3
+How can you adjust the security settings for macros without exposing yourself to unnecessary risks?
+3.Leave the default Macro Security settings as they are and create a Trusted Location for your files with macros instead.
+
+

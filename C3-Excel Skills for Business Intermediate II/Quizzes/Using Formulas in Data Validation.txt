@@ -1,0 +1,14 @@
+Using Formulas in Data Validation
+
+1. Question 1
+When using formulas in the Data Validation dialog, the formula will have an equals sign.
+1.True
+2. Question 2
+Which item under Allow in the Data Validation dialog do you need to choose to use a formula in your validation?
+(One or more correct answers are possible. Partial credit will be awarded).
+2.List
+Formula
+3. Question 3
+Consider the following scenario based on this week's workbook:
+You need to use data validation to ensure that the Retail Price is always greater than the Unit Cost. Which of the settings below will produce the correct data validation for this?
+3.Decimal, greater than, L4

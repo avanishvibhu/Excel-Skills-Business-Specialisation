@@ -1,0 +1,15 @@
+Named Ranges in Formulas
+
+1. Question 1
+It is not uncommon to forget what names are being used for the named ranges when typing in formulas in Excel. This can be solved in the following ways:
+(Multiple answers are possible. Partial credit will be awarded).
+1.Use the shortcut key F3 and a list of the named ranges will appear.
+In the Formulas tab in the ribbon navigate to Use in Formula.
+2. Question 2
+Named ranges are usually a great idea, rather than using cell references when performing calculations because of the following reasons:
+(Multiple answers are possible. Partial credit will be awarded).
+2.Named ranges are more meaningful to both yourself, as well as communicating the workings of your spreadsheet to others.
+Formulas will be faster to create
+3. Question 3
+If 'commission_rate' and 'bonus_rate' are named ranges for single cells, it is possible to enter the formula =commission_rate+bonus_rate to generate a result.
+3.True

@@ -1,0 +1,20 @@
+Exact Matches: Exact Match VLOOKUP
+
+1. Question 1
+Which of the statements below about the fourth argument, [range lookup] in the VLOOKUP syntax is correct?
+1.This argument is optional, however, it has to be set to FALSE if you want to do an exact match lookup.
+2. Question 2
+Consider the following parameters:
+This is the value we know: Table column with the heading Materials
+This is our data set: Table with the name Classification
+This is the column with the target value in it: Fourth from the left in the data set.
+Which of the functions below was written correctly to successfully complete an exact match VLOOKUP?
+2.=VLOOKUP([@Materials],Classification,4,FALSE)
+=VLOOKUP([@Materials],Classification,4,0)
+3. Question 3
+In order to set a VLOOKUP to do an exact match, you have to complete the fourth argument by adding:
+3.The word FALSE
+The number 0
+4. Question 4
+When is it appropriate to use an exact match VLOOKUP?
+4.When you are dealing with a lookup value with a unique identifier, such as bank account numbers, and you want to match to a vertical table.

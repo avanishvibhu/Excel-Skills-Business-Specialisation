@@ -1,0 +1,16 @@
+3D Formulas
+
+1. Question 1
+Take a close look at the screenshot below, carefully reading out the names one-by-one.
+You have 6 sheets in your workbook. All of them have the value 200 in cell A1 (and all other cells are empty). Which of the following formulas will give you an answer of 800?
+1.=SUM(Sheet1:Sheet5!A1)
+2. Question 2
+Take a close look at the screenshot above, carefully reading out the names one-by-one.
+For the scenario above, the following formulas will yield the same answer as each other:
+=SUM(Sheet2:Sheet5!A1)
+=Sheet2!A1+Sheet3!A1+Sheet5!A1
+2.True
+3. Question 3
+Take a close look at the screenshot above, carefully reading out the names one-by-one.
+Based on the scenario above, the following formula is entered =SUM(Sheet1:Sheet4!A1). If we move Sheet5 to just after Sheet1, the formula will give a different result.
+3.False

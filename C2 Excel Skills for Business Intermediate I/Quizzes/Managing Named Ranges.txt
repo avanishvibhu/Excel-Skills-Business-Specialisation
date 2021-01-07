@@ -1,0 +1,22 @@
+Managing Named Ranges
+
+1. Question 1
+Which of the following does the Name Manager allow us to do?
+1.Delete a named range.
+Change the range of a named range.
+Add a named range.
+(Multiple answer possible. Partial credit awarded)
+2. Question 2
+The same range can have more than one name
+2.True
+3. Question 3
+The Name Manager tool can be found on which ribbon tab?
+3.Formulas
+4. Question 4
+Uma and Sean started their Monday morning with an argument. Uma thinks if you accidentally delete the wrong named range there is no need to worry, Excel will replace any range in a calculation that depends on this range with cell references. Sean strongly disagrees and suggests that the calculation will break down. Who is right?
+4.Sean
+5. Question 5
+How do you find out whether there are any named ranges in a workbook?
+(Multiple options possible. Partial credit awarded)	
+5.Click on the Name Box.
+Click on the Name Manager.

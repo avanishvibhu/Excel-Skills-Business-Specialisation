@@ -1,0 +1,11 @@
+Diagnostic Tools (ISNUMBER, LEN, CODE)
+
+1. Question 1
+Which of these statements best describes the behaviour of the ISNUMBER function?
+1.Checks whether a value is a number, and returns TRUE or FALSE.
+2. Question 2
+In the video, the CODE function was applied to a string exactly 1 character in length, since the string was the result of a RIGHT([cell reference],1) function. What would happen if we applied the CODE function to a string of more than 1 character in length?
+2.We would get the code result of the first character in the string.
+3. Question 3
+If cell A1 contains a text string between 10 and 15 characters long, and we wish to write a formula that returns an identical text string except with the first two and final two characters removed, which of the following formulas will do this?
+3.=MID(A1,3,LEN(A1)-4)

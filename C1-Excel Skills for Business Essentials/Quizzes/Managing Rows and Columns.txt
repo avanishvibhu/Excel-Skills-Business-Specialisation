@@ -1,0 +1,17 @@
+Managing Rows and Columns
+
+1. Question 1
+You can insert a column on the left of an existing column by ... (One or more answers are possible — partial credit will be awarded)
+1.Right-clicking on the column header and selecting Insert.
+On the Home tab, selecting Insert, then Insert Sheet Columns
+2. Question 2
+Sean wants to delete the contents of cells O3, O4, P3 and P4. He right-clicks and select Delete... from the context menu. Can you explain what's happening? Is he on the right track? (One or more answers are possible — partial credit will be awarded)
+2.Sean got mixed up with the ways to delete content of cells versus deleting rows and columns. The correct way to do it would have been to select the cells and then navigate to the Home tab, press Clear, then select Clear Contents.
+Sean got mixed up with the ways to delete content of cells versus deleting rows and columns. If he hits OK, he will create a mess on his worksheet.
+3. Question 3
+Sean needs to add a new account manager to his table but he wants to keep the same sorting and formatting. How will he add Robert Demarko to his spreadsheet without losing the current alphabetical listing? (One or more answers are possible — partial credit will be awarded)
+Not 100% sure? Prefer to try out rather than guess? Download the spreadsheet here and work on it in Excel.
+manager-details.xlsx
+3.Right-click on the Row 10 symbol and select Insert.
+Single-click anywhere in row 10 and navigate to the Insert tool on the Home tab, select Insert Sheet Rows.
+Single-click in row 10 of the table and use the keyboard shortcut CTRL + SHIFT + =.

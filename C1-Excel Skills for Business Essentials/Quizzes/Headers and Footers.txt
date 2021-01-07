@@ -1,0 +1,13 @@
+Headers and Footers
+
+1. Question 1
+Which view option do you need to select in order to edit the Header or Footer section of your worksheet?
+1.The Page Layout View
+2. Question 2
+What is the difference between a page header and a heading on your worksheet? (One or more answers are possible - partial credit will be awarded)
+2.Page headers allow us to add important meta information in addition to the contents of a worksheet.
+A page header automatically appears on every single printed page. Excel needs to be setup manually to repeat column headings.
+3. Question 3
+Sean wants to change some details about his Header and he remembers that he needs to make those changes in the Design tab. He is looking at his ribbon but can't find the tab. Can you help him?
+3.He needs to click into the Header row in order to activate the Design tab.
+	

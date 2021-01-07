@@ -1,0 +1,14 @@
+Change Chart Style & Type
+
+1. Question 1
+Once you have created a chart (e.g. a column chart), what, if anything, can you do to change to a different chart type? (Multiple answers are possible, partial credit will be awarded)
+1.You can right-click on the chart area and then select a different chart type through one of the options.
+Select your chart, navigate to the Insert tab, locate the Charts group and then select the type of chart you want to change to.
+2. Question 2
+Which layout option did Sean use to change the chart on the Act Mngrs 2016 sheet to look like the screenshot below? (Note: you may need to hover over the layout for a moment to see the label)
+Work with this week's worksheet to figure this one out.
+W06-V03 Change Styles and Type.xlsx
+2.Quick Layout 5
+3. Question 3
+What is the difference between the tool Quick Layout and Chart Styles in the Design tab?
+3.Chart Styles changes the font and shading of existing chart elements, whereas Quick Layout alters the types of chart elements that are displayed and their location in the Chart Area.

@@ -1,0 +1,11 @@
+Find and Replace
+
+1. Question 1
+In the Practice Video, Sean needed to change Ms Kinney's address from "Sydney Fish Market, Bank Street, Sydney" to "Sydney Fish Market, Bank Street, Pyrmont". When Sean worked through the Find and Replace process, why did he use the entire address? This seems a bit cumbersome. Could he have simply looked for "Sydney" and then replaced all instances with "Pyrmont"? Which of the statements below are correct? (One or more answers are possible - partial credit will be awarded)
+1.What he did was correct. If he had done a Find and Replace for "Sydney" only, he would have inadvertently changed all instances of "Sydney" in the entire database, and he only wanted to change the ones for the customers at the Sydney Fish Market.
+2. Question 2
+Which of the following options are set correctly in the Find dialogue window to display all results for the word "with" in lower case, anywhere in the workbook (it has several sheets)
+2.with Match Case, within Workbook, Search by Rows, Look in Values
+Sean wants to find all street addresses that have the number 18 in them. There are so many numbers in the dataset though, when he uses the default search settings, he gets 441 results and they are mostly in the columns with currency in them. Can you help him reduce the number of search results to get to his answer more easily? (One or more answers are possible - partial credit will be awarded)
+3.He can open the Find dialogue box and change the Format settings to General.
+He can select Column D (Address) before he does his search. Now, Excel will only look in this particular column.

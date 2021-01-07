@@ -1,0 +1,35 @@
+Printing: Test your skills
+
+1. Question 1
+The attached workbook is needed to answer all the questions associated with this quiz. Open the attached workbook and investigate what this document will look like when printed (do not actually print). How many pages will print?
+W05-Assessment.xlsx
+1.3
+2. Question 2
+What Margin setting has been selected?
+2.Narrow
+3. Question 3
+Which Orientation has been selected?
+3.Landscape
+4. Question 4
+A Custom Scale has been applied.
+4.True
+5. Question 5
+How many page breaks have been added?
+For Mac users, switch to the Page Layout view, then back to Normal to see the page breaks. Manual page breaks will still be dotted lines.
+Enter answer here
+5.2
+6. Question 6
+If we wanted to insert another page break between rows 20 and 21 we would need to click on which cell first? (We only want to add a horizontal page break). For your answer, enter a cell reference e.g. B5.
+6.A21
+7. Question 7
+For the printed version of the page, based on the existing setup, which of the following is true? (One or more answers may be correct)
+7.A page number has been added to the footer
+8. Question 8
+For the printed version of the page, based on the existing setup, the first four rows repeat on every page. To stop this we would:
+8.Adjust settings in Print Titles
+9. Question 9
+If we insert a column between C and D which of the following happens? (One or more answer may be correct)
+9.Custom Scaling Changes
+10. Question 10
+Before we can manually change the custom scaling, we must:
+10.Set Page Width to Automatic

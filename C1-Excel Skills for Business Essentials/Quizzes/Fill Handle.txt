@@ -1,0 +1,22 @@
+Fill Handle
+
+1. Question 1
+What is one of the main purposes of the fill handle that we have demonstrated?
+ANS.To automatically create a series based on existing data.
+2. Question 2
+What does your mouse cursor need to look like in order to activate the fill handle?
+ANS.A bold, black plus sign
+3. Question 3
+Take a look at the screenshot below. Sean needed to separate the first names from Column C. This would normally take quite a long time but he managed to fill Column D within seconds. How did he do that?
+ANS.Sean typed "Christopher" into cell D2, then he dragged the fill handle to D7. He changed the tool option to Flash Fill.
+4. Question 4
+How do you activate the fill functionality? Remember, if you are not sure, head over to Excel and explore!
+(One or more answers are possible. Partial credit will be awarded.)
+ANS.You hover over the small square in the bottom right-hand corner of your active cell until you see the thick black cross, then click and drag.
+You select a range of cells and click on this icon in the Home tab.
+5. Question 5
+Take a look at the screenshot below. What do you expect to see in the cells A3, B3, C3 and D3 when you drag the fill handle all the way down to D6?
+ANS.A3: 5071-2
+B3: 2013-05-06
+C3: Christopher Schild
+D3: 7

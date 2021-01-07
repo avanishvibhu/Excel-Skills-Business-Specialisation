@@ -1,0 +1,14 @@
+Automation with Tables
+
+1. Question 1
+Charts made from tables automatically update when data is added/removed to the table.
+1.True
+2. Question 2
+Structured references have the following properties:
+(Multiple answers possible. Partial credit will be awarded).
+2.Have relative cell referencing.
+Created automatically in tables.
+Can be used in calculations.
+3. Question 3
+When a new column is added it automatically has the number format of the adjacent column.
+3.False

@@ -1,0 +1,118 @@
+Week 1 Final Assignment
+
+1. Question 1
+Your task is to build a simple financial model using some of the design techniques that you have just learned about. Download the workbook, open it and get ready for your task instructions.
+Important:
+Remember to save your workbook frequently as you progress through the exam.
+C4 W1 Final Assessment.xlsx
+The provided workbook includes the Inputs worksheet. You will need to build calculation worksheets in order to model the forecasted Revenue, Cost of Goods Sold, Expenses and overall Net Income for each month from Jan 2018 to Dec 2022. The calculations will need to be flexible enough to allow changes to the user-variable input values without the need to re-write any calculation formulas.
+Start by adding a new worksheet and name it Calcs_Monthly. Have a look at the supplied image. Note that "1.000" is "1", with three decimal places.
+You can also download the image:
+model.PNG
+We suggest that you keep this open in another browser tab or window so that you can refer back to it easily. This is the look of the worksheet we are going to build, except it is going to extend out to column BN, not just column L. As you build it you will be asked questions about certain calculated values.
+Begin by adjusting the column widths to match the image. Adjust the widths so that
+A and B are width 4,
+C is 30,
+D and F are 9,
+E is 12, and
+columns G:BN are 12.
+How do you go about changing the column width?
+1.Select the column you want to adjust, go to the Home tab, click on Format.
+2. Question 2
+Still on the Calcs_Monthly sheet, freeze the area from cell A1 through to F8. Which cell do you need to select before you click on Freeze Panes?
+(Enter your answer as a valid cell reference, e.g., H2)
+2.G9
+3. Question 3
+Type in the headers, row labels and units labels in columns B, C and D as shown in the image. Apply font colors, borders, bold font and other formatting as shown in the image (this doesn't have to be exact). Also, type values of 1 in cells F11 and F12, and format them as fixed assumptions (blue font) to 3 decimal places.
+Display the Period Start Date by using the named range Model_Start_Date (already preset in the workbook) in G5. What value is displayed in the cell?
+3.43101
+4. Question 4
+You need to change the result from the previous question to the correct date format. The format needs to be 01-Jan-18. Which of the below will allow you to do that?
+4.Select the cell, go to the Home tab, click on Format, Format Cells...
+5. Question 5
+Now let's complete rows 5, 6, 7 and 8.
+Instructions: In cell G6, use the EOMONTH function. It requires two arguments. The start date is located in cell G5, and we want zero months after the start date for the second argument.
+Next, in cell H5, write =G6+1.
+Now apply the same date format as in G5 to the cells G6 and H5. Use the fill handle to drag the formula from G6 to BN6 and from H5 to BN5.
+What does it read in cell Z5?
+(Hint: The answer needs to be exactly in the date format as 01-Jan-18, using the English month names)
+5.01-Aug-19
+6. Question 6
+Where possible we want to use a single consistent formula in each row. Where we don’t do that, such as cell G5 which is different from the rest of row 5, we want to format the unique cell in red font, to indicate to the user that it contains a different formula. Change the font color in cell G5 to red.
+Next, in cells G7:BN7, use the MONTH function with a reference to row 5 to calculate the value. Do the same in cells G8:BN8 but use the YEAR function instead.
+That’s our timing headers complete! We are going to use these row 7 and 8 header values in subsequent calculations.
+To double-check your progress, type the value in AN7 below:
+6.10
+7. Question 7
+Now to calculate the Growth Factors. To follow good design practices, we need a single formula in cell G11 that can be copied across cells G11:BN11. It will escalate in value each year according to the assumptions on the Inputs tab. Remember it also needs to be flexible enough to allow for changes to the inputs, such as a change in the month of growth at Inputs!F32.
+For this assessment, we will provide a way of writing the formula, since the emphasis right now is on model design and not the use of particular functions.
+Try and make sure you understand what each part of the formula is doing though, and why it is structured the way it is.
+Enter the formula below in G11 - you can use copy and paste.
+=F11*(1+IF(G$7=Inputs!$F$32,INDEX(Inputs!$F$26:$F$30,MATCH(G$8,Inputs!$E$26:$E$30,0)),0))
+Then apply the formula across G11:BN11.
+Finally, Format row 11 to three decimal places. What is the value in BH11?
+(Type your answer rounded to three decimal places, e.g. 1.234)
+7.1.174
+8. Question 8
+The formula from the previous question is quite hard to read and understand - let's name some of the components in the formula to improve this.
+Go to your workbook and name the following ranges - make sure to be exact!
+Inputs worksheet:
+E26:E30: GrowthRevYR
+F26:F30: GrowthRevPCT
+F32: GrowthRevMth
+Take a look at the original formula:
+=F11*(1+IF(G$7=Inputs!$F$32,INDEX(Inputs!$F$26:$F$30,MATCH(G$8,Inputs!$E$26:$E$30,0)),0))
+Type below what the formula will look like when you use your newly named ranges (Don't use extra spaces in the formula when you enter your answer below). You may wish to use the Apply Names feature to help you with this task.
+8.=F11*(1+IF(G$7=GrowthRevMth,INDEX(GrowthRevPCT,MATCH(G$8,GrowthRevYR,0)),0))
+9. Question 9
+We will use the same formula construction to write the formula for cells G12:BN12, but making reference to the growth rate for expenses this time.
+Name your ranges again first on the Inputs worksheet:
+E36:E40: GrowthExpYR
+F36:F40: GrowthExpPCT
+F42: GrowthExpMth
+Type below what the formula will look like now.
+(Hint: Once you get the formula to work in Excel, use copy and paste to enter your answer below rather than typing it in manually.)
+9.=F12*(1+IF(G$7=GrowthExpMth,INDEX(GrowthExpPCT,MATCH(G$8,GrowthExpYR,0)),0))
+10. Question 10
+Format row 12 to three decimal places. Drag the formula to complete the row through to column BN.
+What is the value in cell AZ12? (The October 2021 expenses growth factor.)
+Type your answer rounded to three decimal places (e.g. 1.234)
+10.1.170
+11. Question 11
+Next we will build the five rows in the Income section. These are more straight-forward formulas.
+First though, we need to format rows 16:21 to display numbers the way we are seeing in the image.
+Select all of rows 16:21, right click and select Format Cells. Select the Number tab, then the Custom category, and then click in the Type box. This lets us type in our own custom number format. Delete anything that may already be in the Type box and then type:
+#,##0;(#,##0)
+if your local number system uses a comma as the thousands separator or
+#.##0;(#.##0)
+if you use a period as the thousands separator.
+Note: We are not going to explain all the details of custom number formatting here. The short explanation to this particular format is that it will display numbers to 0 decimal places, with a comma or period as a thousands separator, and with negative numbers shown in brackets.
+Press OK when you are done.
+In row 16 (columns G:BN) we want a formula that multiplies the Revenue (from Initial Values, Inputs) with the Growth Factors we calculated in row 11 on our calculations sheet.
+Define the name for cell F19 on the Inputs sheet as ValueRev.
+Type the formula you need to input into G16 in the field below (make sure you test the formula in Excel before you submit your answer).
+Hint: Once you get the formula to work in Excel, use copy and paste to enter your answer below rather than typing it in manually.
+11.=ValueRev*G11
+12. Question 12
+Drag the formula you wrote in G16 to complete the whole row.
+The next step is to calculate the row sum at cell E16.
+What is the sum in E16?
+Type your answer without the thousands separator (e.g. 12345)
+12.5022769
+13. Question 13
+In G17, write a formula that calculates the Cost of Goods Sold (this is the Revenues amount multiplied by the value in F20 on the Inputs sheet).
+Make the process easier by naming F20 (ValueCost) on the Inputs sheet first. Then enter the formula into G17, drag it to complete the row through to column BN. Note that Cost should be negative.
+When you are done, calculate the sum of the Costs of Goods Sold.
+In G18, calculate the Gross Margin as the sum of the two rows above it, then drag the formula across to complete the row through to column BN.
+What is the value of the Gross Margin in the month of December 2022 (column BN)?
+Type your answer without the thousands separator (e.g. 12345)
+13.31586
+14. Question 14
+In row 20, calculate the expenses. Remember they should be a negative value. Make reference to the Initial Expenses $ / month value on the Inputs sheet, and to the Expenses growth factor at row 12 on the Calcs_Monthly sheet. Complete the row through to BN.
+Calculate the row sum at cell E20. What is the value in E20?
+Type your answer without the thousands separator and without the brackets (e.g. 12345)
+14.799105
+15. Question 15
+Finally, calculate the Net Income as the sum of the Gross Margin and Expenses. What is the value of Net Income in the month of April 2020?
+Type your answer without the thousands separator (e.g. 12345)
+15.15223

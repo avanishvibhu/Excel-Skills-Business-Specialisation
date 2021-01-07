@@ -1,0 +1,16 @@
+Error Checking
+
+1. Question 1
+What does it mean if a cell displays #########?
+1.The contents of the cell are too wide to display.
+2. Question 2
+What are some of the benefits of working with the Error Checking tool?
+(One ore more answers are possible. Partial credit will be awarded.)
+2.The tool provides access to supporting documentation on common errors.
+The tool enables us to evaluate each flagged formula step-by-step.
+3. Question 3
+Which of the options below will help us to locate formulas with errors in a spreadsheet?
+3.Display formulas with errors through the Go to Special dialogue.
+4. Question 4
+One of the cells in your spreadsheet is showing an #N/A error. What does that mean?
+4.It means that one of the values you used in your formula cannot be found.

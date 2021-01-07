@@ -1,0 +1,14 @@
+Introduction to Array Formulas
+
+1. Question 1
+The presence of which type of punctuation mark in an Excel formula indicates that we are working with an array?
+1.Curly Braces { }
+2. Question 2
+What will be the result of this formula entered into a cell?
+=LARGE({2,4,6,8,10,12},4)
+2.6
+3. Question 3
+Which of the following is a valid array formula?
+(Multiple answers possible, partial credit awarded)
+3.{=C4:C36*H4}
+{=MAX(G5:G8-H5:H8)}

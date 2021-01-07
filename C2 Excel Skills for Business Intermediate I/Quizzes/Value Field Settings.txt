@@ -1,0 +1,16 @@
+Value Field Settings
+
+1. Question 1
+You can easily style Pivot Tables in a similar way to Tables.
+1.True
+2. Question 2
+Which of the following statements are true for Pivot Tables?
+(Multiple answers possible. Partial credit awarded)
+2.You can apply different functions - average, count, etc - to numeric fields
+You can use a text field in the Values area
+3. Question 3
+Which of the following methods would enable me to show the Count instead of the Sum of Total?
+(Multiple answers are possible. Partial credit will be awarded)
+3.Right-click on any cell under the Sum of Total field, go to Summarize Values By and change it to Count.
+Right-click on any cell in the Sum of Total field and going to Value Field Settings and under Summarise Values By, find Count.
+Drag a text field into Values area and remove the Total field.

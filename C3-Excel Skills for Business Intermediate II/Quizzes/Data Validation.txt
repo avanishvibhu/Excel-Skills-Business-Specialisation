@@ -1,0 +1,27 @@
+Data Validation
+
+1. Question 1
+Where is the Data Validation button located?
+1.On the Data tab.
+2. Question 2
+'Any Value' in the Data Validation dialog means 'No Validation'.
+2.True
+3. Question 3
+Using Data Validation, which option can assist the user to enter valid data by showing a message beside the cell?
+3.'Input Message' under the Input Message tab.
+4. Question 4
+The error alert style 'Stop' will deliver a warning message to users when they attempt to enter invalid data. User can decide whether or not to enter the intended data anyway.
+4.False
+5. Question 5
+After applying Data Validation to existing data, any invalid data will be fixed automatically.
+5.False
+6. Question 6
+Which should be selected under the Settings tab of the Data Validation dialog if the numbers 100, 200, 300, 400, 500 are allowed to be entered in a cell?
+6.'Whole Number' under the Allow options.
+7. Question 7
+"Enter a value that is between 0 and 0.03 (inclusive)."
+Based on the input message above, which validation criteria are correct?
+7.Allow: Decimal
+Data: Between
+Minimum: 0
+Maximum: 0.03

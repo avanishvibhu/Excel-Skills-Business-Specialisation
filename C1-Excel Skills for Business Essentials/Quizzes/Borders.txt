@@ -1,0 +1,12 @@
+Borders
+
+1. Question 1
+To add borders to a large block of data just select one cell in the data set.
+1.False
+2. Question 2
+Which Border option should we use to get the following result:
+2.Top and Double Bottom Border
+3. Question 3
+How do you remove borders while minimizing changes to the data? (If you are unsure - head on over to Excel and experiment before you answer the question)
+3.Click on the cell(s), go to borders and choose No Borders.
+

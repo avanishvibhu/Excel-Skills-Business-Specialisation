@@ -1,0 +1,16 @@
+Sorting
+
+1. Question 1
+Sean wants to sort his data set by Order Quantity. He single-clicked on the column letter Q to select the column and presses Sort & Filter on the Home tab and selects Sort Largest to Smallest. Which of the options below shows what his spreadsheet will look like next?
+1.Is this what he will see?
+2. Question 2
+You need to sort a large and rather untidy data set that you just received from a different department. It contains entries such as dates, numbers and text. Before you use the Sort tool, what should you do first? (One or more answers are possible - partial credit will be awarded)
+2.Make sure that the number format for each of the columns is consistent, e.g. Currency, Accounting, Percentage.
+Add headers to the data set.
+3. Question 3
+Sean wants to order a subset of his data by Order Priority. He wants to see the Critical items first, followed by High, Medium, Low and then Not Specified. However, there might be a slight problem - can you guess what it is?
+3.Excel does not understand text on a conceptual level, in other words, it will sort this column in the following order: Critical, High, Low, Medium, Not Specified.
+4. Question 4
+Sean has been asked to sort the Name column of his data set in ascending order. What does that mean given that his column contains text, not numbers?
+4.Ascending order means that he needs to sort his data from A to Z.
+

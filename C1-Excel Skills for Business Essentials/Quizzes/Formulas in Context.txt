@@ -1,0 +1,11 @@
+Formulas in Context
+
+1. Question 1
+A small business buys second-hand goods and then re-sells them at a local market. Which formula typed into C2 will help them calculate the profit made on item they bought for $10 and sold for $29.99?
+1.=B2-A2
+2. Question 2
+A customer has spent $3296.99 but we wish to give them a 5% discount. Which formula will calculate the correct amount of discount?
+2.=A2*B2
+3. Question 3
+Payroll has to calculate the tax for each employee. First they must add the base salary to the commission and then calculate the tax on the total. Which formula does this correctly?
+3.=(A2+B2)*C2

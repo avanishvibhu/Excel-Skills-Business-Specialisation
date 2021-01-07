@@ -1,0 +1,17 @@
+Sorting and Filtering in Tables
+
+1. Question 1
+You can access the sorting and filtering tools in the following ways:
+(Multiple answers possible. Partial credit will be awarded).
+1.In the right-click menu.
+Data tab in the ribbon.
+Filter buttons found in the header row of the table.
+2. Question 2
+Uma told Sean that Excel automatically recognises that some columns contain a certain kind of format e.g. (date format, text format) and provides useful filters in light of this e.g. text filters for fields containing text. Is Uma right?
+2.Yes
+3. Question 3
+Using the attached Workbook:
+W5_SortingAndFiltering.xlsx
+Go to the Table Tools Design tab which appears when clicked on the table and go to Table Style Options and check (tick) the Total Row. Now, go to the Total Row in your table, hover to Annual Salary, press the drop down button and go to StdDev.
+What value do you get?
+3.13572.54

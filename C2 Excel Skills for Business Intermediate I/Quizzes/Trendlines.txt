@@ -1,0 +1,17 @@
+Trendlines
+
+1. Question 1
+We have a chart where the data approximately follows a straight line, which trendline would be the best fit?
+1.Linear
+2. Question 2
+A graph shows a dramatic increase in sales for the first year followed by a steady levelling off in subsequent years. Which trendline would be the best fit?
+2.Logarithmic
+3. Question 3
+Of the values below, which R-squared value suggests the best fit?
+3.0.981
+4. Question 4
+Another challenge for you to solve in Excel. Type in the data and create a line chart for Revenues - then solve this question: What is the R-squared value of a linear trendline?
+4.0.4159
+5. Question 5
+Another challenge building on the data we got you to type into Excel for the previous question. Create a line chart for Revenues - then solve this question. What is the R-squared value when creating an exponential trendline?
+5.0.3617

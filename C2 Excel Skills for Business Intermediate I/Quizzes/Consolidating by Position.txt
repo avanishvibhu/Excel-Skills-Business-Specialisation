@@ -1,0 +1,14 @@
+Consolidating by Position
+
+1. Question 1
+How do you access the Consolidate feature?
+1.Navigate to the Data tab and locate the feature in the Data Tools group.
+2. Question 2
+When using the Consolidate feature, you can only use the SUM function.
+2.False
+3. Question 3
+Which sentence is correct about Consolidate?
+3.When you are linking to a data source, the "Create link to data source" check box should be ticked in Consolidate dialog box.
+4. Question 4
+You can undo Consolidation with Links.
+4.False

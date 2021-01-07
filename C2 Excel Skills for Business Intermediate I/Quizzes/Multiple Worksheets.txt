@@ -1,0 +1,19 @@
+Multiple Worksheets
+
+1. Question 1
+Which of the following options allow us to move a worksheet in a workbook?
+1.In the Home tab, select Format > Move or Copy Sheet...
+Right-click the worksheet tab and select Move or Copy
+Left-click to drag and drop the worksheet tab to the desired position
+2. Question 2
+If you delete a sheet by mistake, you can click Undo or press Ctrl+Z to undo the operation.
+2.False
+3. Question 3
+When you click on the + button, what will happen next?
+3.A new worksheet will be added to the right of Sheet2.
+4. Question 4
+How do you make a copy of an existing worksheet?
+4.Press Ctrl (Alt on Mac), left-click, drag and release.
+5. Question 5
+Which of the following is true of the scenario shown below:
+5.If I change something on Sheet1, the same change will be applied to Sheet3 and Sheet5.

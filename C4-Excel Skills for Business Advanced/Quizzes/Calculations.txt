@@ -1,0 +1,11 @@
+Calculations
+
+1. Question 1
+We want to use the values in Price column in one of our formulas. What is the best way to select those values?
+1.Select the the cell as below
+2. Question 2
+Which of the following is a volatile function in Excel?
+2.INDIRECT
+3. Question 3
+Which of the options below is a valid and good practice example for a named range? The example for this range is a column of data containing the sale prices for houses in 2017.
+3.SalePriceHouses_2017

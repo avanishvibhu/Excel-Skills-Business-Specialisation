@@ -1,0 +1,14 @@
+Linking Workbooks
+
+1. Question 1
+When you link to a cell in a different workbook, your reference will contain several components. What will the reference look like correctly when you link to a cell such as R28 on the worksheet, Expenses, in a file named Facility-expenses2017.xlsx?
+1.[Facility-expenses2017]Expenses!$R$28
+2. Question 2
+What tool did we use to display these four workbooks on the screen?
+2.Select the View tab, click on Arrange All, select Tiled.
+3. Question 3
+Why would we link workbooks?
+3.To pull values from one or more workbooks and work with them in one of these workbooks, or work with them in a separate workbook.
+4. Question 4
+Once you have created links between workbooks, they will remain intact and continue to work even if you move the location of any of your files.
+4.False

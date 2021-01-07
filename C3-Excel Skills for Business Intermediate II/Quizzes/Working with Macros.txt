@@ -1,0 +1,11 @@
+Working with Macros
+
+1. Question 1
+You need to change the shortcut key that starts your macro. How do you do this?
+1.Go to the Developer tab, click on Macros, then choose Options.	
+2. Question 2
+You can copy and paste lines of code from one macro to another in the VBA Editor.
+2.True
+3. Question 3
+How do you delete an existing macro in a workbook?
+3.Go to the Developer tab, click on Macros, then choose Delete.

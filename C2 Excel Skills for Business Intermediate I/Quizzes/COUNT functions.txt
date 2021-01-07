@@ -1,0 +1,16 @@
+COUNT functions
+
+1. Question 1
+Given the following information, what would Excel return as the result for cell B10, if the formula was input as =COUNT(B2:B8)?
+1.4
+2. Question 2
+Given the following information, what would Excel return as the result for cell B10, if the formula was input as =COUNTA(B2:B8)?
+2.6
+3. Question 3
+Given the following information, what would Excel return as the result for cell B10, if the formula was input as =COUNTBLANK(B2:B8)?
+3.1
+4. Question 4
+For the following data, what formula(s) could you use to count the number of days that are being specified in Column A?
+(Multiple answers are possible. Partial credit will be awarded)
+4.=COUNTA(A2:A8)
+=COUNT(A2:A8)

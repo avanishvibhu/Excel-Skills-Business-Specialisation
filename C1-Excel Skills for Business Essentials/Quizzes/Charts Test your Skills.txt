@@ -1,0 +1,40 @@
+Charts: Test your skills
+
+1. Question 1
+Creating charts is pretty straightforward but it's important we know the terminology Excel uses. What is the Chart Area?
+1.The chart area is the entire chart with all of its elements.
+2. Question 2
+Creating charts is pretty straightforward but it's important we know the terminology Excel uses. What is the Plot Area?
+2.The plot area is the part of the chart that displays the data visualization. It is located in the area framed by the y and x axis.
+3. Question 3
+Creating charts is pretty straightforward but it's important we know the terminology Excel uses. What is meant by the word Legend?
+3.The legend decodes the data labels and adds explanation to the chart.
+4. Question 4
+When you want to create a chart, what do you need to observe?
+Multiple answers are possible, partial credit will be awarded.
+4.Select any headings in rows and/or columns.
+Carefully select all the data you want to include in the chart.
+Ensure that your selection doesn't contain any empty rows or columns.
+5. Question 5
+Download the workbook below. It contains a slightly altered and abbreviated version of the FBI Crime Statistics, 1994-2013. You will need to work with it in order to answer the next questions in this assignment.
+W06-workbook.xlsx
+You have been given the task to provide some visual summaries to support a presentation on trends and volume of certain types of crime in the United States. Take a moment to familiarize yourself with the workbook. What is the title of Table 1?
+5.Crime in the United States by Volume, 1994-2013
+6. Question 6
+Take a look at the screenshot below and then head over to Excel to your W06-workbook file. Which cell ranges were selected to create this chart?
+6.A4:B9
+7. Question 7
+Take a look at the screenshot below. What type of chart is this?
+7.A line chart.
+8. Question 8
+Take a look at the chart below. What's missing from this chart to make it a useful visualization for a presentation on Violent Crime rates between 1994-2013?
+8.The chart title is meaningless.
+The x-axis information is missing.
+There is no legend to explain the value category.
+9. Question 9
+Using the data in the W06-workbook, create a 2-D Pie Chart for 2004. Which of the following best represents what you have created?
+9.With Labels and Year
+10. Question 10
+Create a Line Chart for Violent crime, Burglary and Motor vehicle theft. Use the Quick Layout to show the data table below the chart (hint: hover over the Quick Layout options to find which one includes a data table). Change the colors so that Violent crime is green, Burglary is blue and Motor vehicle theft is yellow. Change the chart title to Crime in the USA 1994-2013. Change the vertical axis label to be Number of crimes.
+Which of the following does your chart most closely resemble?
+10.Quick Layout and add Table Option

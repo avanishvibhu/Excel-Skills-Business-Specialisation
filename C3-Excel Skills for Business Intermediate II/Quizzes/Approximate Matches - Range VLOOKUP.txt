@@ -1,0 +1,14 @@
+Approximate Matches: Range VLOOKUP
+
+1. Question 1
+When you are doing a VLOOKUP, what is the lookup value?
+1.This is the value we do know. We want Excel to lookup this value from the table.
+2. Question 2
+When you are doing a VLOOKUP, what is the col_index_num?
+2.This is the number of the column that contains the value you want Excel to return from the lookup table.
+3. Question 3
+With a range VLOOKUP you can look up a value that falls within a given range and return a corresponding value.
+3.True
+4. Question 4
+Which characteristics about the data set that the table_array argument points to are important to keep in mind when creating a range VLOOKUP?
+4.The lookup data set that the table_array points to has to be listed from smallest to largest, the range needs to be referred to as absolute references, and headings must not be included.

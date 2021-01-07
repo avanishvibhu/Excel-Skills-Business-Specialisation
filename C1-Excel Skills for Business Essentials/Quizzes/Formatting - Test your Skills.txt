@@ -1,0 +1,39 @@
+Formatting: Test your skills
+
+1. Question 1
+Sean wants to make a change in cell B2, but every time he clicks on the cell, A1 becomes the active cell instead.
+1.A1:B2 have been merged.
+2. Question 2
+Open the attached workbook and observe how the heading in row 1 has been formatted. What is the name of the font used in the heading?
+W03-Assessment.xlsx
+2.Candara
+3. Question 3
+Which alignment option has been applied to the heading in row 1?
+3.Merge and Center
+4. Question 4
+Which formatting options have been applied to cell A3?
+(One or more answers are possible — partial credit will be awarded)
+4.Middle Align
+Italics
+Bold
+5. Question 5
+The date in B3 has lost its formatting. Apply a Long Date format. What month of the year was this data last modified?
+5.June
+6. Question 6
+The percentages in T9 and T10 also have the wrong number format. Change them to the correct number format (to match the rest of the data in the column). What value now shows in T9?
+6.93%
+7. Question 7
+Which Cell Style has been added to cells C38:U38? (Hint: Look in the Cell Styles gallery, when you hover over a style it tells you the name.)
+7.Total
+8. Question 8
+Which of the following formats has been added to B3?
+8.Thick Bottom Border
+9. Question 9
+Which alignment option has been applied to the headings in D6:T6?
+9.Rotate Text Up
+10. Question 10
+Which alignment option has been applied to cell U31?
+10.Wrap Text
+11. Question 11
+Click on cell S38 and increase the number of decimal places to 3. What is the value in the cell now? (Enter using the number format ##.###).
+11.30.867

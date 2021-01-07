@@ -1,0 +1,16 @@
+Adding with Criteria (SUMIFS)
+
+1. Question 1
+For the following information, what formula would you type into cell C12, to return the total number of calls made by Yeheli?
+1.=SUMIFS(C2:C9,B2:B9,"Yeheli")
+2. Question 2
+For the following information, what formula would you type into cell C13, to return the total number of calls made by Rahul?
+2.=SUMIFS(C2:C9,B2:B9,"Rahul")
+3. Question 3
+What would the following formula return: "=SUMIFS(C2:C9,B2:B9,"Yeheli",A2:A9,"15/02/2013")" ?
+3.3
+4. Question 4
+For the following information, what would the formula below return: "=SUMIFS(C2:C9,B2:B9,"Yeheli",B2:B9,"Rahul")" ?
+4.0
+
+

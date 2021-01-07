@@ -1,0 +1,88 @@
+Week 3 Final Assignment
+
+1. Question 1
+Download the following file in order to answer all the questions in this final assessment.
+C3 W3 Final Assessment.xlsx
+How many sheets does this file have
+1.2
+
+2. Question 2
+The CHOOSE function
+Using the data in Data Task 1, use the CHOOSE function to describe the items coded.
+The data is available in the 'Data' sheet. Here you will need to click the "plus" icon near 'Task 1' to reveal the relevant data.
+Now, using the data in Task 1, use the CHOOSE function to fill the green cells D31:E33.
+Every time you enter something in the green cells, the Assessment Code for Task 1 will change.
+This code has been programmed by us for the purposes of checking your answers.
+When you have the correct answers, and if you have correctly used the CHOOSE function, the Assessment Code that is generated will let us know this.
+Please do not try to type anything into the yellow cell as that would disrupt the assessment code. If you do type into the yellow cell, re-download the Excel file from Coursera.
+You will be required to enter the data in the green cells, as well as the data in the yellow cell onto the Coursera platform so that we can mark you.
+What is the 'Assessment Code for Task 1'? Note that this will only work in the English version of Excel 2013 or newer. If you are using Excel in a different language, please set it to English while doing this assessment task.
+2.1425
+
+3. Question 3
+In the Instructions sheet, what is in cell D32?
+3.Boots
+
+4. Question 4
+In the Instructions sheet, what is in cell E32?
+4.green
+
+5. Question 5
+Range VLOOKUP
+Using the data in Data Task 2, use Range VLOOKUP to complete this task.
+Long Distance phone calls are based on a sliding scale depending on the length of time take on a call. The charges rates are found in the 'Data' sheet in Task 2. For example, a call that lasts between 10 and 20 minutes will be charged $2.00. As soon as a call duration passes the threshold it is charged at the higher rate. For example, a 7 minute call will be charged $1.75.
+Complete the Phone bill charges and calculate the total at the bottom.
+The data is available in the Data sheet. Here you will need to click the "plus" icon near Task 2 to reveal the relevant data.
+Now, using the data in Task 2, use Range VLOOKUP to fill the green cells D50:D54.
+Every time you enter something in the green cells, the Assessment Code for Task 2 will change.
+This code has been programmed by us for the purposes of checking your answers.
+When you have the correct answers, and if you have correctly used Range VLOOKUP, the Assessment Code that is generated will let us know this.
+Please do not try to type anything into the yellow cell as that would disrupt the assessment code. If you do type into the yellow cell, re-download the Excel file from Coursera.
+You will be required to enter the data in the green cells, as well as the data in the yellow cell onto the Coursera platform so that we can mark you.
+What is the 'Task 2 Total' in cell D55? (Enter this as a number with two decimal places and without a $ sign)
+5.13.25
+
+6. Question 6
+What is the Assessment Code for Task 2?
+Note that this will only work in the English version of Excel 2013 or newer. If you are using Excel in a different language, please set it to English while doing this assessment task.
+6.88957
+
+7. Question 7
+Exact Match VLOOKUP
+At a fast food Café, the waitress went round and took down the orders for a large group of 10
+Use VLOOKUP with exact matching to complete the table.
+Make any adjustment to the items wherever necessary
+Calculate the Grand Total for the party of 10
+The data is available in the Data sheet. Here you will need to click the "plus" icon near 'Task 3' to reveal the relevant data.
+Now, using the data in Task 3, use Exact Match VLOOKUP to fill the green cells C72:C82.
+Every time you enter something in the green cells, the Assessment Code for Task 3 will change.
+This code has been programmed by us for the purposes of checking your answers.
+When you have the correct answers, and if you have correctly used Exact Match VLOOKUP, the Assessment Code that is generated will let us know this. For the final argument to VLOOKUP, range_lookup, you should use FALSE instead of 0, otherwise the Assessment Code will not be correctly generated.
+Please do not try to type anything into the yellow cell as that would disrupt the assessment code. If you do type into the yellow cell, re-download the Excel file from Coursera.
+You will be required to enter the data in the green cells, as well as the data in the yellow cell onto the Coursera platform so that we can mark you.
+What is the 'Task 3 Total' in cell E83? (Enter this as a number with one decimal place and without a $ sign)
+7.257.5
+
+8. Question 8
+What is the Assessment Code for Task 3?
+Note that this will only work in the English version of Excel 2013 or newer. If you are using Excel in a different language, please set it to English while doing this assessment task.
+8.428315
+
+9. Question 9
+INDEX and MATCH
+An outdoor clothing and accessories store placed prices on items according to the colours in demand for the item as per table in Data Task 4
+Using the INDEX and MATCH functions, find the prices on these three item
+The data is available in the Data sheet. Here you will need to click the "plus" icon near 'Task 4' to reveal the relevant data.
+Now, using the data in Task 4, use INDEX and MATCH to fill the green cells D99:D101.
+Every time you enter something in the green cells, the Assessment Code for Task 4 will change.
+This code has been programmed by us for the purposes of checking your answers.
+When you have the correct answers, and if you have correctly used INDEX and MATCH, the Assessment Code that is generated will let us know this.
+Please do not try to type anything into the yellow cell as that would disrupt the assessment code. If you do type into the yellow cell, re-download the Excel file from Coursera.
+You will be required to enter the data in the green cells, as well as the data in the yellow cell onto the Coursera platform so that we can mark you.
+What is the 'Task 4 Total' in cell D102? (Enter this as a number without a $ sign)
+9.27
+
+10. Question 10
+What is the Assessment Code for Task 4 in cell G99?
+Note that this will only work in the English version of Excel 2013 or newer. If you are using Excel in a different language, please set it to English while doing this assessment task.
+10.7770124

@@ -1,0 +1,8 @@
+Working with Tables
+
+1. Question 1
+You can use banded rows only with tables.
+1.False
+2. Question 2
+You can select the whole table (including headings) by:
+2.Pressing Ctrl+A twice when you are in the table.

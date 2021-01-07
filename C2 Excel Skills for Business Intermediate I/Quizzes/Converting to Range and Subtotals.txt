@@ -1,0 +1,13 @@
+Converting to Range and Subtotaling
+
+1. Question 1
+You can convert a table to a range by:
+(Multiple answers are possible. Partial credit will be awarded).
+1.Right click context menu and going to table then Convert to Range.
+Navigating to the Table Tools Design tab while clicked on the table and going to Convert to Range in Tools.
+2. Question 2
+What property of subtotal reports makes it important to name the sheet on which the subtotal report is produced?
+2.The report is a snapshot of the database and won’t be updated should the database change, so a useful name can remind you of this.
+3. Question 3
+Which of the following steps should you always take before you use the Subtotal feature in Excel?
+3.Sort your data.

@@ -1,0 +1,11 @@
+Solver
+
+1. Question 1
+One difference between Solver and Goal Seek is that, Goal Seek can only be set to a target value, whereas Solver can do this, as well as maximise or minimise a value.
+1.True
+2. Question 2
+If you do not have Solver added in to your Excel, how can you add it?
+2.The usual way is via Excel Add-ins
+3. Question 3
+What is the Set Objective in Solver?
+3.A cell whose value you want to maximise, minimise or reach a particular target.

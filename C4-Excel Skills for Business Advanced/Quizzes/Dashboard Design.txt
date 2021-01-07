@@ -1,0 +1,16 @@
+Dashboard Design
+
+1. Question 1
+Why is it important to use segmentation in your dashboard?
+1.It allows us to display information in groupings.
+2. Question 2
+Which of the following options are useful when laying out the dashboard initially?
+2.Custom shapes.
+Background fill.
+(Multiple answers possible, partial credit awarded)
+3. Question 3
+Which of the options below will select a group of objects?
+(Multiple answers possible, partial credit awarded)
+3.Hold down the Ctrl key and click on each object.
+Go to Find & Select, click on Select Objects to activate object selection.
+Hold down the Shift key and right-click on each object.

@@ -1,0 +1,14 @@
+Counting with Criteria (COUNTIFS)
+
+1. Question 1
+Given the following information, what value would the formula below return?
+=COUNTIFS(B2:B9,2.39)
+1.1
+2. Question 2
+Given the following information, what value would the formula return?
+=COUNTIFS(B2:B9,">2.39")
+2.4
+3. Question 3
+Our aim is to count the number of cells that are greater than 2.39. Given the following information, what is the problem with the formula below?
+=COUNTIFS(B2:B9,>2.39)
+3.Quotation marks are needed around the criteria, ">2.39"

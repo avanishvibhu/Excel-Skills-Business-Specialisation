@@ -1,0 +1,11 @@
+Advanced Conditional Formatting
+
+1. Question 1
+It is possible to use formulas in data validation but not in conditional formatting.
+1.False
+2. Question 2
+Which option below is correct about using a formula in conditional formatting?
+2.Go to the Home tab, click on the Conditional Formatting button, then select New Rule, Use a Formula.
+3. Question 3
+Which option below describes correct cell referencing to apply conditional formatting to the whole row of a data set rather than a single cell?
+3.Relative references for rows and absolute references for columns.

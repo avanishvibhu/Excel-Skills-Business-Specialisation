@@ -10,4 +10,4 @@ The keyboard shortcut Ctrl+; is the same as using the TODAY() function. (Note: T
 Here is a super challenge for you if you feel up for it.
 (You will need to work this out in Excel.)
 In 2017 the Hindu festival of Diwali occurred on Thursday, 19 October. What fraction of the year was this? (to 1 decimal place). Hint: Think carefully which start and end dates to use.
-3.
+3. 0.8
